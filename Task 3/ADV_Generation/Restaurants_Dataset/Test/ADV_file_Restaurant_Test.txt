@@ -1,0 +1,1135 @@
+Sentence_ID	Sentence_Index	Aspect_Index	Aspect	Dep_Words	Aspect_Polarity
+32897564#894393#2	0	0	bread	['The', 'well']	positive
+33070600#670328#0	1	0	delivery times	['city', 'the', 'one', 'fastest', 'of']	positive
+33070600#670328#2	2	0	Food	['fresh', 'hot']	positive
+36244464#949326#5	3	0	coffee	['the', 'OUTSTANDING']	positive
+32894246#870052#0	4	0	sushi	['Certainly', 'York', 'not', 'fresh', 'the', 'best']	conflict
+32894246#870052#0	4	1	place	['the', 'clean']	positive
+32894246#870052#1	5	0	people	['the', 'trust']	positive
+32894246#870052#2	6	0	Japanese food	['decent', 'surprises']	positive
+35390182#756337#4	7	0	asian salad	['great', 'roll']	positive
+35390182#756337#4	7	1	spicy tuna roll	['ROOT', 'BEST', 'salad']	positive
+35390182#756337#5	8	0	rose roll	['Try', 'menu', 'the']	positive
+35390182#756337#5	8	1	menu	['not', 'on', 'rose']	neutral
+11447227#436718#3	9	0	drinks	['the', 'love', 'martini']	positive
+11447227#436718#3	9	1	lychee martini	['esp', 'drinks']	positive
+11447227#436718#3	9	2	food	['the', 'good']	positive
+33071731#1007204#3	10	0	Nicoise salad	['a', 'and', 'this', 'was', 'not', 'ROOT', 'eatable', 'fact']	negative
+33085939#758010#0	11	0	menu	['a', 'decent', "'s"]	positive
+33085939#758010#0	11	1	drinks	['and', '45', 'your', 'get']	neutral
+33085939#758010#0	11	2	dessert pizza	['a', 'for', 'get']	neutral
+11313431#524365#3	12	0	food	['and', 'sold', 'top', 'the', 'entertainment']	positive
+11313431#524365#3	12	1	live entertainment	['food', 'sold']	positive
+11359717#1138929#1	13	0	waiter	['disinterested', 'rude', 'so', 'horrible', 'Our', 'ROOT']	negative
+11359717#1138929#3	14	0	sangria	['', 'The', "'s"]	negative
+11359717#1138929#4	15	0	menu	['small']	negative
+11313439#692431#0	16	0	sushi	['fresh', 'for', 'Rose']	positive
+11313439#692431#0	16	1	portions	['go', 'Rose', 'great', 'all']	positive
+11313439#692431#0	16	2	price	['a', 'go', 'at', 'reasonable']	positive
+11351513#832512#0	17	0	food	['!', 'Great', 'service']	positive
+11351513#832512#0	17	1	service	['food', 'the', 'but']	negative
+35390148#588852#2	18	0	portions of the food	['The', 'mediocre', 'came', 'that']	neutral
+11351513#832512#1	19	0	waitress's	[]	negative
+11313431#524365#2	20	0	staff memebers	['met', 'by', 'friendly']	positive
+11313431#524365#2	20	1	parking	['the', 'made', 'Piers', 'convienent']	positive
+35196520#758440#4	21	0	desserts	['the', 'going', 'for']	positive
+35196527#481646#2	22	0	Desserts	['incredible']	positive
+35196527#481646#2	22	1	Tart of the Day	['their', 'is', 'favorite', 'incredible']	positive
+35668126#536759#2	25	0	food	['The', 'presented', 'tasty', 'excellent']	positive
+35668126#536759#2	25	1	wine	['the', 'excellent']	positive
+33070286#1133164#6	28	0	LASAGNA	['THE']	positive
+32894336#662479#0	29	0	array of sushi	['NYC', 'the', 'has', 'freshest', 'delicious']	positive
+32894336#662479#1	30	0	cuisine	['superb', 'its', 'for', 'just', 'recommend']	positive
+32894336#662479#1	30	1	owners	['and', 'for', 'friendly', 'also', 'recommend', 'its', 'staff']	positive
+32894336#662479#1	30	2	staff	['owners', 'recommend']	positive
+32892130#435512#0	31	0	indian food	['serious', 'some', 'craving']	positive
+32892130#435512#0	31	1	ambiance	['a', 'desire', 'cozy']	positive
+32892130#435512#4	32	0	food	['the', 'enjoyed']	positive
+11432316#715219#2	34	0	service	['the', 'delightful']	positive
+11432316#715219#2	34	1	garden	['adorable']	positive
+11432316#715219#2	34	2	food	['the', 'appetizers', 'adorable']	positive
+11432316#715219#2	34	3	appetizers	['food', 'entrees', 'from']	positive
+11432316#715219#2	34	4	entrees	['to', 'appetizers']	positive
+11351354#412616#0	36	0	food	['The', 'good']	positive
+11351354#412616#0	36	1	decor	['the', 'nice']	positive
+35714274#1076679#0	37	0	lunch	['and', 'dinners', 'power', 'provides']	negative
+35714274#1076679#0	37	1	dinners	['lunch', 'provides']	negative
+35714274#1076679#5	38	0	steaks	['wasted']	negative
+35720486#684689#4	39	0	staff	['The', 'friendly']	negative
+33064346#1483297#0	41	0	meatball parm	['the', 'good']	positive
+11417054#1062693#2	42	0	latin food	['seasoned', 'eat']	positive
+13383936#420974#4	43	0	taglierini with truffles	['try', 'the']	positive
+13383936#420974#5	44	0	staff	['the', 'attentive', 'personable']	positive
+36244423#1058258#2	46	0	gnocchi	['melts', 'The']	positive
+11559272#409013#0	47	0	staff	['pleasant']	positive
+11559272#409013#0	47	1	food	['large', 'tasty']	positive
+11559272#409013#0	47	2	portion size	['tasty', 'in']	positive
+11559272#409013#0	47	3	portobello/gorgonzola/sausage appetizer	['and', 'the', 'recommend', 'risotto']	positive
+11559272#409013#0	47	4	lobster risotto	['the', 'appetizer', 'recommend']	positive
+36244784#0#3	48	0	Entrees	['include']	neutral
+36244784#0#3	48	1	lasagna	['Alfredo']	neutral
+36244784#0#3	48	2	fettuccine Alfredo	['and', 'parmigiana', 'classics', 'lasagna', 'like']	neutral
+36244784#0#3	48	3	chicken parmigiana	['Alfredo', 'classics']	neutral
+32938222#1552119#2	49	0	food	['The', 'good']	positive
+32938222#1552119#2	49	1	teriyaki	['the', 'good', 'recommend']	positive
+11546184#1465600#0	50	0	Meal	['expensive']	negative
+32895093#418997#3	51	0	Peanut Butter Sorbet	['and', 'Try', 'the', 'pizza']	positive
+32895093#418997#3	51	1	pizza with soy cheese	['Try', '!', 'the', 'Sorbet']	positive
+32406302#615620#2	52	0	food	['ask', 'price', 'Good']	positive
+32406302#615620#2	52	1	price	['food', 'the', 'right', 'at']	positive
+11302356#1455624#1	55	0	food	['The', 'notch']	positive
+11302356#1455624#1	55	1	service	['the', 'attentive']	positive
+11302356#1455624#1	55	2	atmosphere	['the', 'great']	positive
+11302355#533813#0	57	0	food	['!', 'and', 'Great', 'waitstaff', 'atmosphere', 'best']	positive
+11302355#533813#0	57	1	waitstaff	['food', '!', 'great']	positive
+11302355#533813#0	57	2	atmosphere	['food', '!', 'great']	positive
+11302355#533813#0	57	3	beer	['of', 'all', 'GREAT', 'best']	positive
+35698351#821341#0	58	0	food	['the', 'has', 'good']	positive
+35698351#821341#0	58	1	kimono shrimp special	['excellent']	positive
+35698351#821341#0	58	2	atmosphere	['a', 'great', 'has']	positive
+33070305#1312437#2	62	0	menu	['interesting', 'The']	positive
+33070305#1312437#2	62	1	priced	['interesting', 'reasonably']	positive
+33070305#1312437#3	63	0	food	['The', 'delicious']	positive
+33070305#1312437#3	63	1	ingredients	['fresh', 'used']	positive
+11610073#973003#3	64	0	food	['cooked', 'the']	negative
+11464789#378665#0	65	0	Appetizer	['excellent']	positive
+11464789#378665#0	65	1	meal	['a', 'great', 'inexpensive', 'them', 'make']	positive
+11464789#378665#1	66	0	spicy mussels	['highlight', 'The']	positive
+32899282#556036#2	67	0	Onion Rings	['the', 'get']	positive
+11351587#1488758#2	69	0	food	['with', 'the', 'disappointed']	negative
+11359656#1716239#1	70	0	portions	['prices', 'Huge', 'ROOT', 'service']	positive
+11359656#1716239#1	70	1	service	['and', 'prices', 'great', 'attentive', 'portions']	positive
+11359656#1716239#1	70	2	prices	['good', 'portions', 'service']	positive
+11359797#469087#7	71	0	service	['and', 'their', 'disappointed', 'food', 'by']	negative
+11359797#469087#7	71	1	food	['disappointed', 'service']	negative
+11359797#469087#6	72	0	waiter	['complained', 'to', 'the']	negative
+11359797#469087#6	72	1	manager	['then', 'but', 'to', 'intensity', 'went', 'the']	negative
+32938828#1194079#1	73	0	food	['The', 'great']	positive
+32938828#1194079#1	73	1	milkshakes	['better', 'the']	positive
+11349445#757796#1	76	0	mushroom barley soup	['the', 'amazing']	positive
+11602699#875811#1	78	0	food	['the', 'good']	positive
+11602699#875811#1	78	1	staff	['efficient', 'the', 'courteous', 'friendly']	positive
+11313316#1234433#2	79	0	duck	['Their', 'delicious']	positive
+11351762#644011#1	81	0	drinks	['the', 'fantastic']	positive
+11351762#644011#1	81	1	food	['the', 'superb']	positive
+35719198#0#5	82	0	curried casseroles	['of', 'the', 'Some']	negative
+33070461#1496736#1	84	0	food	['The', 'EXCELLENT']	positive
+32882616#562969#4	85	0	taste	['the', 'at', 'surprised']	positive
+33070309#423221#1	86	0	seafood	['lovers']	positive
+33070309#423221#1	86	1	space	['A', 'make', 'nice']	conflict
+33070309#423221#1	86	2	cuisine	['chosen', 'to', 'its', 'devotion']	positive
+32882616#562969#3	87	0	orange donut	['had', 'an']	neutral
+35171678#484493#3	88	0	atmosphere	['a', 'provide', 'laid', 'relaxing']	positive
+32945645#1528063#2	89	0	meats	['substandard', 'uses']	negative
+11546184#1465600#4	91	0	Management	['The', 'accomodating']	negative
+13383936#420974#2	92	0	ambience	['The', 'relaxed', 'laid']	positive
+35692932#1064131#3	93	0	teas	['the', 'great']	positive
+35692932#1064131#3	93	1	sweets	['all', 'the', 'homemade']	positive
+11488685#420977#1	94	0	mojitos	['and', 'part', 'service']	positive
+11488685#420977#1	94	1	service	['mojitos', 'the', 'part']	positive
+35397104#0#3	95	0	Sandwiches	['successes', 'burgers', 'and', 'salads', 'cobb']	positive
+35397104#0#3	95	1	burgers	['successes', 'Sandwiches']	positive
+35397104#0#3	95	2	salads	['successes', 'Sandwiches']	positive
+35397104#0#3	95	3	lemon-dressed cobb	['the', 'lemon', 'like', 'Sandwiches']	positive
+35820984#608922#1	97	0	design	['The', 'romantic', 'intimate']	positive
+35820984#608922#2	98	0	food	['imaginative', 'The', 'wonderful']	positive
+35820984#608922#3	99	0	staff	['sharp', 'The']	positive
+36245348#821441#2	100	0	taste	['worst', 'ROOT', 'the', 'was', 'though']	negative
+11432442#650772#5	102	0	fajita	['The', 'tasteless', 'tried', 'burned']	negative
+11432442#650772#5	102	1	mole sauce	['sweet', 'the']	negative
+11432442#650772#6	103	0	roasted chickens	['and', 'the', 'with', 'you', 'Stay']	positive
+32944693#1193404#4	104	0	atmosphere	['sexy', 'The', 'warm', 'artsy', 'comfortable']	positive
+32944693#1193404#1	105	0	food	['The', 'great']	positive
+32944693#1193404#1	105	1	selection	['prices', 'big', 'great']	positive
+32944693#1193404#1	105	2	prices	['selection', 'reasonable']	positive
+32944693#1193404#1	105	3	drinks	['the', 'good']	positive
+35693214#539116#1	106	0	steak	['The', 'melted']	positive
+32950007#1320096#3	107	0	waiters	['cute', 'the', "'", 'jokes']	positive
+32950007#1320096#3	107	1	food	['The', 'take']	neutral
+35938288#666236#2	108	0	priced	['importantly', 'is', 'ROOT', 'reasonably', 'it']	positive
+11350660#564640#1	109	0	selection of food	['The', 'excellent']	positive
+11350660#564640#1	109	1	atmosphere	['the', 'great']	positive
+35393632#1591698#7	110	0	dessert	['skip', 'the']	negative
+35393632#1591698#7	110	1	taste	['on', 'fell']	negative
+15087705#871249#1	111	0	Food	['decent', 'great']	positive
+11651062#1264882#1	114	0	hot dog	['this', 'rave', 'about']	negative
+11359619#487952#3	115	0	bar	['a', 'and', 'complete', 'food', 'quaint', 'with']	positive
+11359619#487952#3	115	1	food	['good', 'bar', 'complete']	positive
+11351628#404492#6	117	0	waiters	['ALWAYS', 'The']	negative
+35709141#1107179#0	118	0	atmosphere	['the', 'nice']	positive
+32935211#1468239#1	119	0	food	['their', 'is']	positive
+33069901#1437116#3	121	0	wraps	['and', 'fresh', 'the', 'salads', 'burgers']	positive
+33069901#1437116#3	121	1	burgers	['fresh', 'wraps']	positive
+33069901#1437116#3	121	2	salads	['fresh', 'wraps']	positive
+33069901#1437116#3	121	3	mango margareta	['9', 'the', 'WORTH']	positive
+35709337#1579632#6	123	0	prices	['the', '3x']	positive
+33069901#1437116#1	124	0	service	['The', 'good', 'friendly', 'experienced']	positive
+11351725#582163#9	125	0	waiter	['Our', 'friendly']	positive
+11351725#582163#9	125	1	staff	['a', 'supportive', 'work', 'have']	negative
+11351725#582163#7	126	0	folding chair	['The', 'uncomfortable', 'seated']	negative
+11432842#416795#1	129	0	Service	['best']	positive
+11432842#416795#2	130	0	fettucino alfredo	['The', 'amazing']	positive
+33067279#1612676#1	131	0	food	['The', 'good']	positive
+33067279#1612676#1	131	1	vegan options	['many', 'see']	positive
+32930165#1643018#3	132	0	Indian food	['real', 'and', 'this', 'it']	negative
+11359727#487554#5	133	0	Smoked Trout	['try', 'the', 'Chops']	positive
+11359727#487554#5	133	1	Lamb Chops	['on', 'gratin', 'Veal', 'Rabbit', 'Trout']	positive
+11359727#487554#5	133	2	Veal Chops	['Lamb', 'on', 'gratin', 'Rabbit', 'Trout']	positive
+11359727#487554#5	133	3	Rabbit	['Chops']	positive
+11359727#487554#5	133	4	potato gratin	['the', 'Chops']	positive
+11359727#487554#2	134	0	chef	['house', 'the']	neutral
+11359727#487554#2	134	1	food	['and', 'the', 'right', 'service']	positive
+11359727#487554#2	134	2	service	['food', 'right']	positive
+32893609#708406#2	135	0	eggs benedict	['mussels', 'hamburger', 'from', 'the', 'Everything']	positive
+32893609#708406#2	135	1	mussels	['benedict', 'to', 'the', 'hamburger', 'and']	positive
+32893609#708406#2	135	2	hamburger	['even', 'benedict', 'the', 'mussels']	positive
+32926987#668438#1	136	0	waiters	['professional', 'The']	positive
+32935729#785247#5	138	0	falafal	['cooked', 'The', 'dried']	negative
+32935729#785247#5	138	1	chicken	['the', 'fine']	positive
+32935211#1468239#3	139	0	grand marnier shrimp	['the', 'reccomend']	positive
+32944704#492723#0	140	0	food	['enjoy', 'and', 'great', 'good', 'ROOT', 'been', 'the', 'was']	positive
+32944704#492723#0	140	1	food	['enjoy', 'and', 'great', 'good', 'ROOT', 'been', 'the', 'was']	positive
+32944704#492723#0	140	2	service	['the', 'good']	positive
+33061325#0#3	141	0	Desserts	['sopaipillas', 'include']	neutral
+33061325#0#3	141	1	flan	['include']	neutral
+33061325#0#3	141	2	sopaipillas	['Desserts', 'include']	neutral
+32894513#498296#0	142	0	portions	['small', 'the', 'driving']	negative
+35709141#1107179#4	143	0	wait staff	['inconsiderate', 'The', 'loud']	negative
+35709141#1107179#1	144	0	food	['and', 'the', 'lacking', 'service', 'dramatically']	negative
+35709141#1107179#1	144	1	service	['food', 'and', 'dramatically', 'lacking']	negative
+35709141#1107179#2	145	0	sushi	['The', 'cut']	negative
+11350496#1560668#3	146	0	service	['The', 'great']	positive
+11350496#1560668#3	146	1	soup	['arrives', 'my']	positive
+11351625#909535#1	147	0	crepes	['be', 'delicious']	positive
+11351622#0#5	148	0	desserts	['make', 'brulee', 'Montparnasse', 'tart', 'good']	positive
+11351622#0#5	148	1	creme brulee	['silken', 'and', 'especially', 'desserts', 'the', 'tart']	positive
+11351622#0#5	148	2	apple tart	['paper', 'desserts', 'brulee']	positive
+11351620#1180095#0	150	0	shrimp creole	['a', 'had', 'delicious']	positive
+11351620#1180095#1	151	0	chicken dinner	['The', 'good']	positive
+32464595#574909#4	152	0	chili signed food items	['of', 'Beware', 'ROOT', 'the', 'want']	negative
+32938222#1552119#1	153	0	decor	['The', 'designed']	neutral
+11351620#1180095#3	154	0	food	['the', 'delicious']	positive
+32464595#574909#2	155	0	coconut rice	['with', 'it']	positive
+32464595#574909#2	155	1	ribs	['beef']	positive
+32464595#574909#2	155	2	beef	['and', 'couple', 'it', 'sizzling', 'the', 'ribs']	positive
+32893040#1716582#5	158	0	avocado salad	['The', 'fave']	positive
+32893040#1716582#6	159	0	honey BBQ rib tips	['And', '!', 'the', 'ROOT']	positive
+32893040#1716582#0	160	0	Chinese food	['Uptown', 'The', 'ROOT', 'BEST']	positive
+35170181#0#2	161	0	Service	['known']	positive
+32464601#418474#1	162	0	atmosphere	['The', 'attractive', 'uncomfortable']	conflict
+32464601#418474#2	163	0	staff	['The', 'friendly']	positive
+11359618#788741#3	164	0	Waiters	['friendly']	positive
+11359618#788741#3	164	1	pasta	['world', 'the']	positive
+33068517#482841#2	165	0	wine list	['and', 'menu', 'Great', 'ROOT', 'great']	positive
+33068517#482841#2	165	1	cocktail menu	['great', 'list', 'wine']	positive
+33068517#482841#1	166	0	crab cakes	['The', 'delicious']	positive
+33068517#482841#1	166	1	BBQ rib	['perfect', 'the']	positive
+35869867#649564#1	167	0	food	['The', 'wonderful']	positive
+32864873#471207#1	168	0	service	['with', 'fast', 'restaurant']	positive
+11350539#680470#4	169	0	sauce	['The', 'everyone']	conflict
+33069536#707145#3	170	0	service	['and', 'desserts', 'the', 'highest', 'given']	positive
+33069536#707145#3	170	1	desserts	['free', 'given', 'often', 'service']	positive
+32899414#512291#0	171	0	atmosphere	['A', 'beautiful', 'appetizers', 'drinks', 'perfect']	positive
+32899414#512291#0	171	1	drinks	['atmosphere', 'appetizers', 'ROOT', 'and/or']	neutral
+32899414#512291#0	171	2	appetizers	['atmosphere', 'drinks']	neutral
+32469157#1273114#1	173	0	pizza	['best', 'the', 'make', 'Jersey']	positive
+36072604#1106889#2	175	0	service	['the', 'comforting']	positive
+36072604#1106889#2	175	1	food	['better', 'the']	positive
+36072604#1106889#2	175	2	beer list	['extensive', 'dynamic', 'comforting']	positive
+12036269#580745#1	176	0	chinese food	['the', 'something']	negative
+12036269#580745#2	177	0	waiter	['only', 'was', 'upstairs', 'one']	neutral
+35695422#1464305#3	178	0	scallops	['started', 'and', 'the', 'with', 'asparagus']	neutral
+35695422#1464305#3	178	1	asparagus	['started', 'scallops']	neutral
+35695422#1464305#3	178	2	soft shell crab	['plate', 'as', 'had', 'the']	neutral
+35695422#1464305#3	178	3	cheese plate	['the', 'had', 'crab']	neutral
+36220672#1714981#3	179	0	service	['the', 'excellent']	positive
+11651062#1264882#2	180	0	hotdogs	['of', 'the', 'one', 'worst', 'had']	negative
+32971013#1044651#2	181	0	staff	['The', 'friendly']	positive
+32971013#1044651#2	181	1	Saag gosht	['their', 'about', 'good', 'dream']	positive
+33064238#563983#2	182	0	garlic knots	['the', 'recommend']	positive
+32971013#1044651#0	183	0	Indian food	['Best', 'eaten']	positive
+33064238#563983#0	185	0	pizza	['the', 'has', 'best']	positive
+32896473#439063#3	187	0	music	['heavy', 'The', 'ROOT']	negative
+11350010#590580#1	188	0	service	['informative', 'The', 'excellent']	positive
+11359762#927332#1	189	0	owner	['go', 'and', 'The', 'make', 'staff']	positive
+11359762#927332#1	189	1	staff	['owner', 'go', 'make']	positive
+32950061#1264345#1	191	0	sushi	['fresh', 'The', 'yummy']	positive
+32950061#1264345#1	191	1	menu	['the', 'varied']	positive
+11359767#969393#2	192	0	food	['great', 'the', 'The', 'amazed', 'cooked']	positive
+11359767#969393#2	192	1	sushi	['good']	positive
+11359767#969393#2	192	2	cooked food	['The', 'great', 'the', 'amazed']	positive
+33106326#864352#0	193	0	dinner specials	['their', 'fantastic']	positive
+32405935#675215#0	195	0	food	['Great', 'ROOT', 'drinks']	positive
+32405935#675215#0	195	1	drinks	['food', 'great', 'atmosphere']	positive
+32405935#675215#0	195	2	dining atmosphere	['nice', 'drinks']	positive
+32894669#1075584#0	196	0	price	['pay', 'the', 'For']	negative
+32894669#1075584#0	196	1	food	['pay', 'the', 'for']	negative
+32894669#1075584#1	197	0	Food portion	['SMALL']	negative
+33085669#409731#11	200	0	chairs	['of', 'comfortable', 'those', 'one']	positive
+33070461#1496736#6	203	0	Tacos Pastor	['and', 'here', 'are', 'Tinga', 'the', 'ROOT', 'favs']	positive
+33070461#1496736#6	203	1	Tostada de Tinga	['the', 'Pastor']	positive
+11447227#436718#2	206	0	bartenders	['and', 'The', 'managers', 'nice']	positive
+11447227#436718#2	206	1	managers	['the', 'bartenders', 'nice']	positive
+11447227#436718#2	206	2	decor	['the', 'comfy', 'laid']	positive
+32889544#0#4	207	0	hot and sour soup	['try', 'the', 'sandwich', 'meal']	positive
+32889544#0#4	207	1	soup and sandwich meal	['on', 'try', 'hot', 'sour', 'take', 'the']	positive
+35693136#561234#0	208	0	drinks	['great', 'has', 'it']	positive
+35693136#561234#0	208	1	atmosphere	['has', 'it', 'cool']	positive
+35693136#561234#0	208	2	service	['has', 'it', 'excellent']	positive
+35693136#561234#0	208	3	food	['has', 'it', 'delicious']	positive
+11484031#1129679#4	209	0	chick peas with shrimp (appetizer)	['the', 'divine', 'appetizer']	positive
+11351628#404492#9	210	0	service	['of', 'the', 'bad', 'sick', 'smirks']	negative
+32893510#483382#1	213	0	lamb	['cooked', 'ordered', 'tasted', 'which']	positive
+11359619#487952#6	214	0	soft shell crab sandwich with fries	['their', 'like']	positive
+33070605#1232775#2	215	0	hong kong-style food	['looking', 'authentic', 'for', 'kong']	positive
+11351664#1238806#6	217	0	food	['wine']	positive
+11351664#1238806#6	217	1	wine	['food', 'good', 'it', 'that']	positive
+33070305#1312437#4	219	0	staff	['pleasant', 'The', 'friendly']	positive
+11478791#397331#1	223	0	kitchen food	['their', 'delicious']	positive
+11478791#397331#1	223	1	Sushi	['their', 'world']	positive
+35171678#484493#2	225	0	service	['scrumptious', 'the', 'excellent', 'waitresses', 'from']	positive
+35171678#484493#2	225	1	waitresses	['cute', 'by', 'service']	positive
+35171678#484493#2	225	2	atmosphere	['extremely', 'to', 'the', 'lush', 'scrumptious']	positive
+11351664#1238806#1	226	0	italian food	['traditional', 'simple', 'ROOT', "'s", 'It']	positive
+35693081#540596#1	228	0	food	['The', 'good']	positive
+35693081#540596#1	228	1	rolls	['the', 'good', 'with', 'excellent']	positive
+35693081#540596#1	228	2	sushi/sashimi	['the', 'good', 'level']	neutral
+35693081#540596#2	229	0	sashimi	['The', 'cut']	negative
+35708055#673129#2	231	0	price	['the', 'had']	negative
+11651063#1217842#0	234	0	hot dogs	['great', 'has', 'In']	positive
+11651063#1217842#0	234	1	breakfast sandwiches	['that', 'things', 'feature', 'wonderful', 'in', 'has']	positive
+11651063#1217842#0	234	2	tator tots	['things', 'like']	positive
+11651063#1217842#0	234	3	English muffins	['product', 'know']	positive
+11651063#1217842#0	234	4	Taylor ham	['girls']	positive
+11651063#1217842#0	234	5	pork product	['a', 'muffins', 'NJ']	positive
+11349845#1188496#1	236	0	manager	['a', 'and', 'graceless', 'because', 'bartender', 'happened']	negative
+11349845#1188496#1	236	1	bartender	['a', 'rude', 'who', 'had', 'manager', 'tells', 'happened']	negative
+11349845#1188496#1	236	2	drinks	['minutes', 'for']	neutral
+11349845#1188496#1	236	3	waiting	['had', 'minutes', 'us']	negative
+32892130#435512#1	237	0	service	['the', 'great']	positive
+32892130#435512#1	237	1	atmosphere	['the', 'romantic', 'comfortable']	positive
+11359797#469087#5	238	0	green chillis	['with', 'blazing']	negative
+11359797#469087#5	238	1	dish	['the', 'arrived']	negative
+11351819#985076#1	239	0	service	['and', 'experienced', 'food', 'average', 'worst', 'The', 'absolute']	negative
+11351819#985076#1	239	1	food	['the', 'average', 'service']	negative
+11351819#985076#1	239	2	meals	['the', 'ordered', 'gave']	neutral
+33061445#591371#1	240	0	lunch	['$', 'for']	neutral
+33061445#591371#1	240	1	take-out	[]	neutral
+33061445#591371#1	240	2	dine-in	[]	neutral
+32934709#796678#2	244	0	food	['accompany', 'your']	neutral
+32934709#796678#2	244	1	fresh juice concoctions	['of', 'their', 'one']	positive
+32894963#1707639#1	245	0	food	['The', 'great']	positive
+32894963#1707639#1	245	1	prices	['the', 'reasonable']	positive
+32894963#1707639#3	246	0	place	['!', 'like', 'this', 'is', 'clean', 'the', 'The']	positive
+32894963#1707639#3	246	1	soul food	['like']	positive
+33059678#631861#3	248	0	roast chicken	['and', 'had', 'salad']	neutral
+33059678#631861#3	248	1	salad	['a', 'chicken', 'had']	neutral
+32894966#1727613#7	250	0	chicken with avocado	['a', 'and', 'tuna', 'good', 'have']	positive
+32894966#1727613#7	250	1	tuna	['with', 'chicken', 'good', 'avocado', 'as']	positive
+11558693#1436895#4	252	0	meals	['the', 'terrible']	negative
+11558693#1436895#6	253	0	chicken	['My', 'dried']	negative
+11558693#1436895#6	253	1	sauce	['the', 'flavorful']	negative
+12037822#470071#0	254	0	Malted Milk Ball Gelato	['heard', 'ROOT']	positive
+11558693#1436895#9	256	0	meal	['a', 'such', 'terrible', 'for', 'money']	negative
+35700731#1595671#2	258	0	service	['the', 'horrible']	negative
+11350033#1264371#4	259	0	bar service	['was', 'the', 'slow', 'ROOT', 'con']	negative
+35158410#1207085#5	260	0	Dessert	['die', 'was']	positive
+11660930#655010#6	261	0	service	['the', 'good']	positive
+12036269#580745#8	264	0	black vinegar	['and', 'with', 'eaten', 'ginger']	neutral
+12036269#580745#8	264	1	shredded ginger	['vinegar', 'eaten']	neutral
+11350390#802808#2	265	0	lighting	['The', 'made', 'unattractive']	negative
+11350390#802808#2	265	1	food	['the', 'overpriced']	negative
+11350390#802808#2	265	2	disco pop duo	['awful', 'the', 'performing', 'was']	negative
+11350390#802808#2	265	3	escargot	['looked', 'my']	negative
+11359619#487952#4	268	0	place	['a', 'cozy', 'is', 'it', 'go', 'ROOT']	positive
+11565268#560107#1	269	0	service	['The', 'great']	positive
+11565268#560107#1	269	1	owner	['the', 'make', 'walks']	positive
+11351628#404492#5	270	0	waiters	['need', 'the']	negative
+11359791#791967#1	274	0	food	['the', 'recommended', 'delicious']	positive
+11359790#823900#2	275	0	waiter	['the', 'gave']	negative
+11351628#404492#2	281	0	salads	['Dieters', 'to', 'stick', 'indulge', 'platters', 'or']	positive
+11351628#404492#2	281	1	vegetarian platters	['salads', 'in']	positive
+32935729#785247#10	282	0	meal	['healthy', 'filling', 'So']	positive
+11359727#487554#3	286	0	food	['about', 'fussy', 'the', 'eat']	neutral
+11639814#570590#2	287	0	service	['The', 'outstanding']	positive
+11350141#1745557#0	289	0	pizza	['stop', 'for']	neutral
+11350141#1745557#1	290	0	pizza	['enjoy', 'the']	positive
+11350141#1745557#4	291	0	service	['The', 'good']	positive
+11432442#650772#0	294	0	chicken	['the', 'great']	positive
+32406302#615620#1	300	0	food	['The', 'great']	positive
+11484031#1129679#1	301	0	host (owner)	['caring', 'and', 'servers', 'owner', 'The', 'personable']	positive
+11484031#1129679#1	301	1	servers	['host', 'personable']	positive
+11351561#744321#0	303	0	food	['everything', 'the']	positive
+11351561#744321#0	303	1	atmosphere	['everything', 'the']	positive
+11351561#744321#0	303	2	hostess	['everything', 'gracious']	positive
+33068635#1533725#2	305	0	food	['The', 'good']	positive
+33068635#1533725#2	305	1	service	['the', 'great']	positive
+11313316#1234433#1	306	0	Vietnamese Beef Noodle Soup	['the', 'one', 'get']	neutral
+11661949#1709112#5	309	0	dining experience	['our', 'make']	negative
+33069536#707145#0	311	0	Indian food	['the', 'has', 'York', 'best']	positive
+33069536#707145#1	312	0	waiters	['The', 'friendly', 'helpful']	positive
+35693081#540596#0	313	0	interior	['Intimate', 'ROOT', 'service', 'charming']	positive
+35693081#540596#0	313	1	service	['interior', 'attentive', 'with', 'friendly']	positive
+35393632#1591698#4	314	0	food	['The', 'creative']	positive
+35393632#1591698#4	314	1	decor	['and', 'both', 'the', 'worked']	positive
+33009300#626261#5	318	0	menu	['The', 'great']	positive
+33009300#626261#5	318	1	selection	['a', 'great', 'good', 'with']	positive
+11350539#680470#3	321	0	sauce	['The', 'flavorful', 'zesty']	positive
+11350539#680470#3	321	1	crust	['the', 'crispy', 'nice']	positive
+33059931#926509#0	322	0	sushi	['city', 'the', 'has', 'best']	positive
+33059931#926509#1	323	0	selection	['great', 'an', 'have', 'excellent']	positive
+33059931#926509#1	323	1	rolls with crab	['the', 'great']	positive
+11349871#518230#2	324	0	host	['the', 'Everyone', 'bartender', 'servers']	positive
+11349871#518230#2	324	1	bartender	['the', 'host']	positive
+11349871#518230#2	324	2	servers	['the', 'host']	positive
+11349871#518230#3	325	0	food	['the', 'fantastic']	positive
+11349871#518230#4	326	0	potato spinach gnocchi	['lamb', 'and', 'include']	positive
+11349871#518230#4	326	1	lamb	['the', 'gnocchi', 'spinach']	positive
+33071731#1007204#0	328	0	lunch	['chose', 'for']	neutral
+32889544#0#3	329	0	sandwiches	['the', 'star']	positive
+11351753#0#4	330	0	port	['with', 'quality', 'paired']	positive
+11351753#0#4	330	1	Portuguese cheese cart	['chosen', 'paired', 'The', 'provides']	positive
+35084984#412657#1	331	0	burger	['a', 'had']	neutral
+35084984#412657#1	331	1	blueberry pancakes	['these', 'wonderful', 'had']	positive
+35084984#412657#2	332	0	food	['our', 'with', 'happy']	positive
+35084984#412657#2	332	1	bill	['the', 'saw']	positive
+33064221#427885#3	335	0	toppings	['fresh', 'All']	positive
+33064221#427885#3	335	1	crust	['perfect', 'the']	positive
+11548230#560890#2	337	0	service	['gotten', 'amazing']	positive
+11548230#560890#2	337	1	food	['the', 'love']	positive
+35700989#574718#1	338	0	waitstaff	['The', 'seems', 'solicitous', 'friendly']	positive
+35700989#574718#1	338	1	food	['the', 'wonderful']	positive
+35700989#574718#2	339	0	lobster ravioli	['love', 'the', 'with']	positive
+11639814#570590#0	341	0	meal	['our', 'enjoyed']	positive
+11359618#788741#2	342	0	Service	['excellent']	positive
+11359618#788741#2	342	1	price	['the', 'for', 'lot']	positive
+11359618#788741#2	342	2	wait	['no', 'excellent']	positive
+12036269#580745#3	343	0	food	['the', 'cheap']	negative
+33070601#438491#0	345	0	Coffee	['deal']	positive
+33070601#438491#0	345	1	Cosi sandwiches	['overpriced', 'deal', 'than']	negative
+11661949#1709112#3	346	0	drink	['a', 'order']	neutral
+35693081#540596#3	349	0	prices	['modest', 'its', 'for', 'one']	positive
+32944714#1559783#1	350	0	food	['popular', 'The', 'good']	positive
+32944714#1559783#1	350	1	waiting	['nightmare']	negative
+11558693#1436895#1	356	0	place	['the', 'walking', 'in']	positive
+11558693#1436895#1	356	1	ambience	['great', 'have']	positive
+35700731#1595671#0	357	0	brunch	['weekend', 'for']	neutral
+35819603#1613701#3	360	0	food	['of', 'plenty', 'left']	positive
+35714274#1076679#4	363	0	crust	['a', 'dry', 'made', 'burnt']	negative
+11351664#1238806#4	364	0	food	['and', 'all', 'good', "'s", 'just', 'It', 'ROOT', 'more']	positive
+32936760#1397861#9	366	0	cake	['thats']	negative
+33068517#482841#0	368	0	dinner	['visited', 'for']	neutral
+11351400#495795#1	369	0	SERVICE	['THE', 'WRONG']	positive
+11546184#1465600#1	371	0	Delmonico steak	['The', 'had', '72', 'sent', '$']	negative
+11482070#503858#1	372	0	menu	['the', 'eat', 'filled']	negative
+11349922#547169#3	373	0	rice	['and', 'of', 'beans', 'mountain']	neutral
+11349922#547169#3	373	1	beans	['mountain', 'rice']	neutral
+11349922#547169#3	373	2	chicken	['a', 'mountain', 'ROOT', '625', 'Half']	neutral
+32894483#1088884#0	374	0	service	['The', 'friendly', 'fast']	positive
+32894483#1088884#0	374	1	value	['the', 'great']	positive
+32944674#542988#0	375	0	food	['and', 'impressed', 'the', 'with', 'value']	positive
+32944674#542988#0	375	1	value	['food', 'impressed']	positive
+32944674#542988#2	376	0	garlic soup	['try', 'the']	positive
+32896492#738746#0	377	0	falafel	['and', 'other', 'tabouleh', 'delights', 'humus']	positive
+32896492#738746#0	377	1	tabouleh	['falafel', 'delights']	positive
+32896492#738746#0	377	2	humus	['falafel', 'delights']	positive
+32896492#738746#0	377	3	Mediterranean delights	['tabouleh', 'which', 'inexpensive', 'servces', 'other', 'delicious', 'humus', 'falafel']	positive
+33069847#1306433#1	379	0	pizza's	[]	positive
+35709451#1061726#1	381	0	Staff	['accomodating']	positive
+11359727#487554#4	382	0	Chef	['Waldy']	positive
+33059931#926509#2	386	0	sushi	['fresh', 'with', 'priced']	positive
+33059931#926509#2	386	1	priced	['Reasonably', 'sushi', 'ROOT']	positive
+35819603#1613701#2	387	0	Seafood Paella for two	['Go', 'the']	positive
+35819603#1613701#4	388	0	apetizers	['of', 'the', 'All']	positive
+35819603#1613701#4	388	1	Sangria	['the', 'good']	positive
+11558693#1436895#7	390	0	service	['the', 'prompt']	positive
+11558693#1436895#7	390	1	server	['the', 'friendly']	positive
+33009300#626261#3	391	0	staff	['The', 'greeted']	positive
+33009300#626261#3	391	1	food	['the', 'excellent']	positive
+35819603#1613701#6	394	0	Service	['good']	positive
+35708055#673129#4	395	0	Host	['and', 'rude', 'Hostess']	negative
+35708055#673129#4	395	1	Hostess	['Host', 'rude']	negative
+11351453#683961#0	398	0	wait staff	['the', 'friendly']	positive
+11351453#683961#0	398	1	meal	['our', 'great', 'weekend']	positive
+11351453#683961#1	399	0	salmon dishes	['of', 'any', 'their']	positive
+11351451#805713#1	400	0	foie gras	['sweet', 'The', 'luscious']	positive
+11351324#0#2	401	0	menu	['The', 'changes', 'which', 'shows']	neutral
+11624981#549489#5	402	0	mac cheese	['their', 'YUMMY']	positive
+11624981#549489#6	403	0	brunch menu	['their', 'had']	positive
+11624981#549489#7	404	0	jazz singer	['had']	positive
+15069510#648179#2	406	0	service	['quick', 'great', 'have']	positive
+15069510#648179#3	407	0	food	['soups', 'average', 'etc', 'sandwiches', 'The', 'salads', 'breakfast']	neutral
+15069510#648179#3	407	1	breakfast food	['soups', 'average', 'etc', 'sandwiches', 'The', 'salads']	neutral
+15069510#648179#3	407	2	soups	['food']	neutral
+15069510#648179#3	407	3	salads	['food']	neutral
+15069510#648179#3	407	4	sandwiches	['food']	neutral
+11519527#1541586#1	408	0	FOOD	['THE', 'BY']	negative
+11519527#1541586#3	409	0	BANANA PUDDING	['SERVE']	negative
+11519527#1541586#3	409	1	CRABCAKES	['AND']	negative
+11519527#1541586#3	409	2	MAC AND CHEESE	['ON', 'SALTED', 'GET', 'VERY', 'OVER', 'STARTED', 'ARE', 'WAY', 'CRABCAKES', 'THE', 'GREASY']	negative
+35759841#1360876#1	410	0	staff	['The', 'arrogant']	negative
+35759841#1360876#1	410	1	prices	['high', 'the']	negative
+11639667#1085238#2	412	0	service	['the', 'friendly']	positive
+32464595#574909#0	414	0	food	['to', 'the', 'comes']	positive
+32892297#645108#0	415	0	downstairs bar scene	['The', 'chill', 'cool']	positive
+32892297#645108#1	416	0	food	['The', 'good']	positive
+32892297#645108#1	416	1	price	['the', 'for', 'justify']	negative
+32892297#645108#1	416	2	drinks	['100/person', '2', 'including', 'justify']	neutral
+32950061#1264345#0	417	0	casual lunches	['come', 'for']	neutral
+35393630#1095759#2	418	0	Tequila	['fan']	positive
+11660930#655010#5	419	0	beer selection	['Great', 'ROOT', 'something', 'too']	positive
+11660930#655010#5	419	1	beers	['50', 'something', 'like']	neutral
+11359613#884374#3	421	0	delivary	['of', 'the', 'wary']	negative
+13383936#420974#1	423	0	food	['found', 'the', 'good']	positive
+13383936#420974#1	423	1	owner	['Silvano', 'as', 'good', 'its']	positive
+11484031#1129679#3	424	0	homemade pastas	['kinds', 'have']	positive
+11484031#1129679#3	424	1	gnocchi	['the', 'yum', 'recommend']	positive
+14336883#1094817#3	425	0	vegetable risotto	['infused', 'burnt', 'My']	negative
+14336883#1094817#3	425	1	flavor	['a', 'infused', 'burnt', 'in']	negative
+32935729#785247#8	427	0	price	['the', 'ROOT', 'draw', 'is']	positive
+35390148#588852#4	428	0	service	['this', 'with', 'stay']	negative
+32405935#675215#1	429	0	dinner	['disappointing']	positive
+32405935#675215#1	429	1	prices	['the', 'bit']	negative
+32895093#418997#1	430	0	sandwiches	['etc']	positive
+32895093#418997#1	430	1	soup	['etc']	positive
+32895093#418997#1	430	2	pizza	['etc']	positive
+32895093#418997#1	430	3	homemade sorbets	['their', 'world']	positive
+35393630#1095759#1	431	0	homemade Guacamole	['and', 'thee', 'entree', 'ROOT', 'the']	positive
+35393630#1095759#1	431	1	entree	['the', 'unbelievable', 'Guacamole']	positive
+35393630#1095759#1	431	2	deserts	['amazing', 'thee']	positive
+11461396#699654#0	432	0	sushi	['fresh', 'The', 'priced']	positive
+11461396#699654#0	432	1	priced	['and', 'is', 'sushi', 'fresh', 'ROOT', 'reasonably']	positive
+35869867#649564#3	434	0	deserts	['Save', 'for']	positive
+32408649#945413#2	435	0	grill	['from', 'things', 'Ribs', 'are', 'the', 'ROOT', 'Churrasco']	positive
+32408649#945413#2	435	1	Churrasco	['and', 'grill', 'Ribs']	positive
+32408649#945413#2	435	2	Ribs	['grill', 'Churrasco']	positive
+35196520#758440#0	436	0	traditional Italian items	['The', 'great']	positive
+35196520#758440#0	436	1	setting	['a', 'served', 'cozy', 'in']	positive
+35196520#758440#0	436	2	served	['great', 'setting', 'cheap']	positive
+33085669#409731#7	437	0	iced blended mocha	['the', 'white', 'or', 'hot', 'choose']	positive
+33085669#409731#7	437	1	hot white mocha	['blended', 'the', 'or', 'choose', 'iced']	positive
+33068909#1189415#1	438	0	late lunch	['a', 'Tuesday', 'for']	neutral
+32894416#1193614#4	440	0	parmesan cheese	['for', 'times']	neutral
+35177381#521555#1	441	0	waitress	['Our', 'tried']	negative
+35177381#521555#1	441	1	food	['of', 'the', 'any']	neutral
+35177381#521555#1	441	2	wine	['any', 'recommend']	neutral
+15094232#1295193#3	442	0	service	['The', 'slow']	negative
+15094232#1295193#3	442	1	portions	['small', 'the']	negative
+11302357#835238#2	445	0	ambiance	['The', 'worth', 'cool']	conflict
+33071731#1007204#4	446	0	salad	['a', 'ordered', 'dressing']	neutral
+33071731#1007204#4	446	1	salad dressing	['a', 'asking', 'ordered', 'for']	neutral
+33071731#1007204#4	446	2	quesedilla	['a', 'given']	neutral
+33069847#1306433#0	447	0	pizza's	[]	positive
+11302357#835238#1	448	0	service	['poor', 'The']	negative
+11302357#835238#1	448	1	food	['relative', 'the']	negative
+11302357#835238#1	448	2	cost	['relative', 'to', 'the']	negative
+35709451#1061726#4	449	0	food	['cheap', 'the', 'stop', 'GREAT', 'for']	positive
+35709451#1061726#4	449	1	staff	['pay', 'the', 'visit', 'friendly']	positive
+35701425#1155856#4	450	0	bar	['the', 'minutes', 'at', 'wait']	neutral
+35816071#637243#1	451	0	Chef	['Vincenzo']	positive
+33069536#707145#4	452	0	Indian food	['taste', 'great', 'some']	positive
+33069536#707145#4	452	1	service	['good', 'want']	positive
+32935583#854234#1	453	0	Odessa stew	['try', 'or', 'Rabbit']	positive
+32935583#854234#1	453	1	Rabbit stew	['try', 'or', 'Odessa']	positive
+32935583#854234#1	453	2	salads	['good']	positive
+32935583#854234#1	453	3	kompot	['refreshing']	positive
+36220672#1714981#2	454	0	lunch	['a', 'healthy', 'had']	positive
+33071731#1007204#5	456	0	waitress	['the', 'said']	neutral
+35158451#1089920#4	457	0	quality of the meat	['par', 'The']	negative
+32894966#1727613#2	458	0	smoothies	['and', 'juices', 'specialize', 'in']	positive
+32894966#1727613#2	458	1	fresh juices	['smoothies', 'specialize']	positive
+11351587#1488758#7	460	0	black roasted codfish	['the', 'recommend']	positive
+11351587#1488758#7	460	1	dish	['evening', 'was', 'it', 'recommend', 'the', 'ROOT', 'best']	positive
+11359790#823900#3	461	0	waiter	['and', 'the', 'with', 'annoyed', 'resturant']	negative
+11359790#823900#3	461	1	menu	['from', 'order', 'whatever']	neutral
+11359790#823900#3	461	2	manager	['The', 'told']	neutral
+33068664#1164940#0	462	0	taste	['a', 'warmed', 'microwave', 'in']	negative
+33068664#1164940#0	462	1	chicken	['dark', 'nothing', 'but']	negative
+11624981#549489#10	463	0	reservation	['a', 'make']	neutral
+35084984#412657#0	467	0	brunch	['went', 'for']	neutral
+33069925#747092#0	468	0	sushi	['nikki', 'OK', 'called']	neutral
+33069536#707145#2	469	0	food	['served', 'The', 'outstanding']	positive
+33069536#707145#2	469	1	served	['food', 'is', 'outstanding', 'quickly']	positive
+35709337#1579632#1	471	0	erbazzone emiliana	['the', 'From', 'handled', 'mostarda']	positive
+35709337#1579632#1	471	1	mostarda on the cheese plate	['emiliana', 'to', 'dishes']	positive
+35709337#1579632#1	471	2	dishes	['the', 'handled', 'restaurant']	positive
+33066089#490193#3	472	0	food	['The', 'delicious']	positive
+33066089#490193#3	472	1	bar	['the', 'has']	positive
+33066089#490193#3	472	2	vibe	['a', 'great', 'has']	positive
+32892130#435512#2	474	0	candlelight	['and', "'s", 'music']	neutral
+32892130#435512#2	474	1	music	["'s", 'candlelight']	neutral
+32935729#785247#11	476	0	food	['healthy', 'cheap', 'unglamorous']	positive
+35869867#649564#0	477	0	dining experience	['a', 'fantastic', 'returned', 'was', 'It', 'such', 'ROOT']	positive
+11359613#884374#6	478	0	food	['the', 'good']	positive
+11359613#884374#6	478	1	service	['quick', 'attentative', 'the']	positive
+35700731#1595671#1	479	0	place	['The', 'adorable']	positive
+35700731#1595671#1	479	1	food	['the', 'delicious']	positive
+11558693#1436895#5	480	0	Chicken Teriyaki	['and', 'got', 'the', 'husband']	neutral
+11558693#1436895#5	480	1	Garlic Shrimp	['got']	neutral
+11558693#1436895#0	481	0	Japanese food	['better', 'had', 'court']	negative
+32894966#1727613#10	482	0	staff members	['The', 'replaced', 'friendly']	positive
+32894966#1727613#10	482	1	drink	['my', 'replaced']	neutral
+11359717#1138929#0	483	0	atmosphere	['a', 'let', 'Cool']	positive
+32938222#1552119#3	484	0	Sashimi portion	['big', 'The', 'appease']	positive
+32938222#1552119#3	484	1	artifical lobster meat	['used']	negative
+32891589#573560#1	485	0	wheat crusted pizza	['made', 'have']	positive
+32891589#573560#1	485	1	ingredients	['fresh', 'made', 'with', 'yummy']	positive
+33070309#423221#0	486	0	dinner	['a', 'joint', 'lovely', 'Had']	positive
+33070309#423221#0	486	1	food	['well']	positive
+33070309#423221#0	486	2	service	['pleasant', 'the', 'prompt']	positive
+32936760#1397861#7	487	0	cake	['this', 'MADE']	positive
+32936760#1397861#5	488	0	staff	['a', 'harried', 'buy', 'from']	negative
+32936760#1397861#5	488	1	slices	['buy', 'expensive']	negative
+33085939#758010#1	489	0	wait staff	['ignored', 'the', 'by']	negative
+11351664#1238806#5	490	0	wine list	['The', 'extensive', 'covers']	positive
+11351664#1238806#5	490	1	priced	['extensive', 'well']	positive
+33068890#423889#0	491	0	salads	['fresh', 'tasty', 'want', 'type']	positive
+36244423#1058258#4	492	0	bathroom	['even', 'the']	positive
+32893040#1716582#1	493	0	delivers	['and', 'Speedy', 'service', 'food', 'combine', 'prices', 'ensure']	positive
+32893040#1716582#1	493	1	food	['combine', 'great', 'ensure', 'delivers']	positive
+32893040#1716582#1	493	2	prices	['decent', 'delivers', 'combine', 'ensure']	positive
+32893040#1716582#1	493	3	service	['combine', 'delivers', 'ensure', 'friendly']	positive
+32893040#1716582#1	493	4	repast	['enjoyable', 'ensure', 'an']	positive
+33070286#1133164#3	494	0	WAITERS	['ON', 'SIDEWALK', 'ROOT', 'HAVE']	neutral
+33070286#1133164#1	495	0	ITALIAN MEAL	['AUTHENTIC', 'VISIT', 'AN']	neutral
+32897564#894393#0	496	0	pizza	['to', 'think', 'making', 'get']	positive
+35714274#1076679#2	497	0	steak	['a', 'rare', 'asked', 'for']	neutral
+35509422#0#3	498	0	organic grilled burgers	['dish']	positive
+35509422#0#3	498	1	dish	['wraps', 'scrumptious', 'but', 'burgers', 'are', 'popular', 'the', 'ROOT', 'garnished']	positive
+35509422#0#3	498	2	Jerusalem market-style falafel wraps	['and', 'scrumptious', 'the', 'market', 'dish']	positive
+35509422#0#3	498	3	Mediterranean salads--layered with beets, goat cheese and walnuts	['wraps', 'layered', 'salads', 'beets']	positive
+11302357#835238#3	499	0	dining experience	['and', 'waiter', 'ROOT', 'worst', 'york', 'Probably', 'my']	negative
+11302357#835238#3	499	1	waiter	['a', 'I', 'experience', 'know', "'m", 'former']	neutral
+32936760#1397861#6	500	0	texture	['velvety', 'Great', 'soft', 'Result', 'hint']	positive
+32936760#1397861#6	500	1	hint of cocoa	['texture', 'nice']	positive
+11359762#927332#4	501	0	round corner table next to the large window	['Ask', 'for']	positive
+32891589#573560#4	502	0	flavor	['heatlhy', 'of']	positive
+32891589#573560#4	502	1	twist on pizza	['heatlhy', 'Their', 'full']	positive
+11350033#1264371#1	503	0	AC	['of', 'lack']	negative
+11351328#1638529#0	504	0	service	['their', 'to', 'sales', 'RUDE', 'due']	negative
+11351328#1638529#0	504	1	sales people	['from', 'service', 'Company', 'two', 'as', 'much']	negative
+33009300#626261#1	505	0	location	['a', "'s", 'Unfortunately', 'convenient', 'it', 'but', 'live', 'in', 'not', 'ROOT', 'more']	negative
+35708055#673129#1	506	0	display and quality of the food	['to', 'made']	negative
+11351628#404492#1	507	0	food	['simple', 'The', 'satisfying']	positive
+32935583#854234#0	509	0	food	['the', 'GREAT']	positive
+11639814#570590#1	510	0	food	['The', 'excellent']	positive
+11639814#570590#1	510	1	Italian cuisine	['made', 'authentic']	positive
+11313359#650269#4	511	0	atmoshere	['the', 'changes']	positive
+11351814#1650882#5	512	0	booth by the windows	['a', 'get']	neutral
+11351814#1650882#5	512	1	place	['a', 'not', 'treated', 'in']	positive
+11351814#1650882#5	512	2	food	['and', 'great', 'with', 'service', 'walk']	positive
+11351814#1650882#5	512	3	service	['food', 'walk']	positive
+33070601#438491#1	513	0	coffee	['like', 'for', 'Starbucks', 'which', 'go', 'the']	positive
+11651065#413029#2	515	0	wine list	['disappointing', 'vintages', 'ROOT', 'Somewhat']	negative
+11651065#413029#2	515	1	vintages	['new', 'list']	negative
+11639261#426600#0	517	0	priced	['high', 'place', 'cheap', 'If']	negative
+11639261#426600#0	517	1	food	['dash', 'cheap']	negative
+11639261#426600#0	517	2	scenery	['dash', 'of', 'ghetto']	negative
+33069925#747092#1	518	0	new hamburger with special sauce	['ok']	positive
+33069925#747092#1	518	1	big mac	['better', 'than']	negative
+35196520#758440#1	519	0	pasta	['dente']	positive
+35196520#758440#1	519	1	sauce	['portions', 'drowned', 'in']	neutral
+35196520#758440#1	519	2	portions	['generous', 'sauce']	positive
+12036269#580745#6	520	0	prices	['the', 'understand']	negative
+12036269#580745#6	520	1	food	['better', 'served']	negative
+15087705#871249#2	521	0	Service	['awful']	negative
+15087705#871249#2	521	1	staff	['overwhelmed']	negative
+35693216#1233439#3	522	0	owners	['!', 'To', 'the', 'guys']	positive
+35692932#1064131#2	523	0	owner	['the', 'lovely', 'friendly']	positive
+11484031#1129679#0	524	0	place	['This', 'little', 'warm']	positive
+33106326#864352#4	525	0	meal	['a', 'quick', 'for', 'perfect']	positive
+35709451#1061726#0	526	0	place	['a', 'great', 'is', 'watch', 'it', 'Has', 'ROOT']	positive
+11351762#644011#3	527	0	service	['The', 'great']	positive
+36244423#1058258#1	528	0	staff	['The', 'Italian']	positive
+36244423#1058258#1	528	1	food	['the', 'authentic']	positive
+11350496#1560668#4	529	0	fortune cookies	['be', 'complaint', 'ROOT', 'had', 'the', 'might']	negative
+11350496#1560668#4	529	1	cookie	['a', 'predict']	negative
+11461396#699654#3	530	0	sushi lunch	['a', 'quick', 'Good', 'for']	positive
+11464789#378665#2	531	0	mojito	['a', 'Have']	positive
+11464789#378665#2	531	1	back patio	['the', 'in', 'sit']	positive
+11351513#832512#2	532	0	service	['The', 'slow']	negative
+11408372#630381#0	533	0	meal	['a', 'had', 'consisting', 'excellent']	positive
+11408372#630381#0	533	1	braised lamb shank with mashed potatoes	['a', 'of', 'consisting']	positive
+32894669#1075584#2	534	0	waitress	['The', 'came', 'pick']	negative
+32894669#1075584#2	534	1	soy sauce	['the', 'WHILE', 'pick']	neutral
+32894669#1075584#2	534	2	lunch	['our', 'eating']	neutral
+11661949#1709112#2	535	0	bar	['the', 'at', 'seem']	neutral
+11661949#1709112#2	535	1	bartender	['the', 'seem']	negative
+32933228#1700177#1	536	0	fried pork dumplings	['and', 'the', 'rice', 'reccomend', 'chicken/beef']	positive
+32933228#1700177#1	536	1	orange chicken/beef	['dumplings', 'the', 'reccomend']	positive
+32933228#1700177#1	536	2	fried rice	['dumplings', 'the', 'reccomend']	positive
+11359762#927332#0	537	0	menu	['the', 'in', 'choices']	positive
+35709275#573688#1	538	0	french fries -- with the kalmata dip	['!', 'The']	positive
+11349845#1188496#0	539	0	wait	['complain', 'hour', 'tell']	negative
+11349845#1188496#0	539	1	manager	['the', 'tells']	negative
+11349845#1188496#0	539	2	bartender	['the', 'tells', 'spill']	neutral
+11349845#1188496#0	539	3	drinks	['the', 'paid', 'spill']	neutral
+11313359#650269#5	540	0	boutique selection of wines	['The', 'covers']	neutral
+32896492#738746#2	542	0	assortment of wraps	['a', 'fare', 'great', 'have']	positive
+32896492#738746#2	542	1	traditional Mediterranean fare	['wraps', 'mood', 'for', 'not', 'your', 'if']	neutral
+11351816#1162694#1	543	0	Fresh veggies	['ROOT', 'delicious']	positive
+11351816#1162694#1	543	1	middle eastern spreads	['and', 'cheese', 'all', 'baclava', 'soup', 'of', 'fish', 'fooood', 'medley', 'thing', 'falafel', 'sorts', 'rice', 'kebabs', 'vegetables']	positive
+11351816#1162694#1	543	2	cheese	['and', 'falafel', 'sorts', 'spreads', 'baclava']	positive
+11351816#1162694#1	543	3	falafel	['cheese', 'spreads']	positive
+11351816#1162694#1	543	4	soup	['sorts', 'spreads']	positive
+11351816#1162694#1	543	5	fish	['sorts', 'spreads']	positive
+11351816#1162694#1	543	6	rice	['sorts', 'spreads', 'medley']	positive
+11351816#1162694#1	543	7	root vegetables	['sorts', 'spreads']	positive
+11351816#1162694#1	543	8	rice medley	['a', 'sorts', 'spreads']	positive
+11351816#1162694#1	543	9	spinach thing	['sorts', 'spreads', 'some']	positive
+11351816#1162694#1	543	10	lamb kebabs	['sorts', 'spreads']	positive
+11351816#1162694#1	543	11	cheese baclava	['and', 'falafel', 'sorts', 'spreads']	positive
+11351816#1162694#1	543	12	fooood	['soooo', 'much', 'spreads', 'sorts']	positive
+32405935#675215#2	544	0	Saketini	['taken', 'their', 'wonderful']	positive
+32405935#675215#2	544	1	bar menu	['taken', 'the', 'off']	negative
+35668286#0#0	545	0	look	['a', 'mix', 'herd', 'with', 'that']	negative
+11350031#590790#3	546	0	martinis	['exotic', 'of', 'some', 'those', 'blackboard']	positive
+33060905#1138585#2	548	0	chairs	['1', 'add', '2']	neutral
+33060905#1138585#2	548	1	table	['of', 'the', 'end', 'people']	neutral
+35693216#1233439#1	549	0	happy hour	['The', 'cheap']	positive
+35693216#1233439#1	549	1	service	['reflect', 'the', 'or', 'atmosphere']	positive
+35693216#1233439#1	549	2	atmosphere	['reflect', 'the', 'service']	positive
+33068909#1189415#2	550	0	waiter	['the', 'told']	negative
+33068909#1189415#2	550	1	kitchen	['the', 'give']	neutral
+33068909#1189415#2	550	2	waiting	['After', 'hour', 'told']	negative
+33070383#592089#0	551	0	quaility	['and', 'step', 'atmosphere', 'above', 'in']	positive
+33070383#592089#0	551	1	atmosphere	['quaility', 'step']	positive
+32889544#0#0	552	0	space	['narrow']	negative
+32889544#0#0	552	1	prices	['dirt', 'treats', 'at']	positive
+32889544#0#0	552	2	treats	['prices', 'tasty', 'its', 'crowd', 'for']	positive
+35698240#574381#4	553	0	menu	['varied', 'French']	neutral
+33064238#563983#1	554	0	seats	['lots', 'of', 'everyone', 'back']	positive
+11651065#413029#3	555	0	value	['the', 'spot', 'for']	positive
+36216551#1233442#1	556	0	food	['quality', 'top', 'deliver']	positive
+36216551#1233442#1	556	1	attitude	['entire', 'positive', 'compete', 'way', 'with', 'Temple']	positive
+11351725#582163#4	557	0	glass of wine	['a', 'the', 'ordered', 'came']	neutral
+35720486#684689#0	558	0	flavors	['of', 'the', 'none']	neutral
+32938222#1552119#4	559	0	place	['a', 'and', 'this', 'is', 'Overall', 'take', 'excellent', 'ROOT', 'nice']	positive
+32938222#1552119#4	559	1	service	['the', 'excellent']	positive
+32408649#945413#3	560	0	Food	['quality']	positive
+32408649#945413#3	560	1	price	['a', 'good', 'quality', 'for', 'restaurant']	positive
+33106326#864352#1	562	0	burrito	['a', 'and', 'get', 'dessert', 'tacos', 'gigantic', 'margarita']	positive
+33106326#864352#1	562	1	tacos	['burrito', 'or']	positive
+33106326#864352#1	562	2	margarita	['burrito', 'get']	neutral
+33106326#864352#1	562	3	dessert	['burrito', 'get']	neutral
+11351622#0#1	563	0	space	['traditional', 'The']	neutral
+33060905#1138585#1	564	0	reservations	['empty', 'no']	neutral
+11538980#453602#1	565	0	food	['the', 'mediocre', 'kind']	negative
+11538980#453602#1	565	1	interior	['small', 'the', 'average']	negative
+11538980#453602#1	565	2	owners	['the', 'tag']	negative
+11538980#453602#1	565	3	dining	['a', 'whilst', 'hearty', 'let', 'guffaw']	neutral
+35196527#481646#3	566	0	service	['Good', 'have']	positive
+35196527#481646#3	566	1	food	['great', 'have', 'value', 'wait']	positive
+35196527#481646#3	566	2	value	['food', 'good', 'never']	positive
+35196527#481646#3	566	3	wait	['food', 'to', 'line', 'have']	positive
+35743460#0#3	567	0	Egg McMuffin sandwich	['Offerings', 'cakes', 'the']	neutral
+35743460#0#3	567	1	hot cakes	['and', 'Offerings', 'sandwich', 'like']	neutral
+35743460#0#3	567	2	breakfast	['available', 'for']	neutral
+36072604#1106889#0	568	0	service	['the', 'average']	neutral
+36072604#1106889#0	568	1	food	['inconsistant']	negative
+11567247#1415594#2	569	0	music	['The', 'fascinating', 'left']	positive
+11567247#1415594#2	569	1	bartender	['the', 'made']	positive
+11567247#1415594#2	569	2	drinks	['made', 'superb']	positive
+33070605#1232775#3	570	0	rice dishes	['and', 'exceed', 'noodle', 'add']	positive
+33070605#1232775#3	570	1	noodle dishes	['and', 'exceed', 'rice', 'add']	positive
+33070605#1232775#3	570	2	ice drink	['a', 'on', 'add', '2', 'refreshing']	positive
+32899414#512291#3	571	0	Cuisine	['meet', 'billed', 'ROOT']	negative
+32899414#512291#3	571	1	bill	['meet', 'the']	negative
+32899414#512291#3	571	2	asian fusion	['billed', 'as']	neutral
+32899414#512291#3	571	3	billed	['Cuisine', 'is', 'fusion']	negative
+11351622#0#3	572	0	dishes	['elements', 'salad', 'Creative']	positive
+11351622#0#3	572	1	king crab salad with passion fruit vinaigrette	['and', 'seafood', 'like', 'fettuccine', 'dishes']	positive
+11351622#0#3	572	2	fettuccine with grilled seafood in a rosemary-orange sauce	['fruit', 'rosemary', 'vinaigrette']	positive
+11351622#0#3	572	3	bistro menu	['on', 'elements', 'predictable', 'an']	neutral
+35170181#0#3	573	0	Dishes	['denoted', 'recipes']	positive
+35170181#0#3	573	1	"Roy's Classics"	[]	positive
+35170181#0#3	573	2	menu	['on', 'the', 'marked', 'asterisks']	neutral
+35170181#0#3	573	3	recipes	['mahi', 'tried', 'beef', 'ribs', 'are', 'Dishes', 'ROOT', 'or']	positive
+35170181#0#3	573	4	macadamia-crusted mahi mahi	['such', 'recipes', 'macadamia']	positive
+35170181#0#3	573	5	sweet honey-mustard beef short ribs	['honey', 'recipes', 'subtly']	positive
+32893040#1716582#4	574	0	cold sesame noodles	['The', 'delectable', 'freebie', 'which']	positive
+35177381#521555#0	575	0	food	['served', 'so', 'got', 'was']	negative
+35177381#521555#0	575	1	meal	['a', 'great', 'expecting']	negative
+35177381#521555#0	575	2	served	['food', 'restaurant']	neutral
+35886114#1249751#0	576	0	argentine chorizo appetizer	['The', 'fennel', 'lone', '895']	negative
+35886114#1249751#0	576	1	fennel flavored Italian sausage	['a', 'heavy', 'was', 'appetizer', 'ones', 'ROOT']	negative
+33059678#631861#0	577	0	dinner	['a', 'had', 'nice']	positive
+32867472#663531#2	578	0	delivery	['value']	positive
+32867472#663531#2	578	1	value	['on', 'good', 'prompt', 'Chinese', 'delivery', 'the']	positive
+32894966#1727613#8	579	0	sandwiches	['of', 'the', 'Most']	positive
+32894966#1727613#8	579	1	soy mayonaise	['good', 'with', 'which', 'made']	positive
+33060905#1138585#0	580	0	hostess	['a', 'very', 'by', 'rude', 'greeted']	negative
+33060905#1138585#0	580	1	table	['a', 'asking', 'group', 'for']	neutral
+35196527#481646#4	581	0	dinner	['just', 'for', 'awesome', 'an', 'take', 'Chelsea']	positive
+35709337#1579632#2	582	0	food	['and', 'to', 'the', 'authentic', 'comes', 'wine']	positive
+35709337#1579632#2	582	1	staff	['the', 'off']	positive
+35709337#1579632#2	582	2	food	['and', 'to', 'the', 'authentic', 'comes', 'wine']	positive
+35709337#1579632#2	582	3	wine	['food', 'comes']	positive
+35938288#666236#1	583	0	music	['and', 'selection', 'tapas', 'good', 'has', 'clientele']	positive
+35938288#666236#1	583	1	tapas	['has', 'music', 'nice']	positive
+35938288#666236#1	583	2	selection of wines (primarily Spanish)	['interesting', 'has', 'an', 'music', 'Spanish']	positive
+35938288#666236#1	583	3	clientele	['a', 'hip', 'has', 'neighborhood', 'music']	positive
+32867472#663531#1	584	0	food	['The', 'great']	positive
+32867472#663531#1	584	1	dumplings	['and', 'dishs', 'love', 'their', 'chicken', 'noodles']	positive
+32867472#663531#1	584	2	cold sesame noodles	['dumplings', 'love']	positive
+32867472#663531#1	584	3	chicken	['dumplings', 'love']	positive
+32867472#663531#1	584	4	shrimp dishs	['dumplings', 'love']	positive
+11484031#1129679#2	585	0	food	['the', 'well', 'keep']	positive
+11484031#1129679#2	585	1	food	['the', 'well', 'keep']	positive
+11351819#985076#2	586	0	entrees	['our', 'getting']	neutral
+11351819#985076#2	586	1	Waiting	['hours', 'treat', 'getting']	negative
+15069510#648179#4	587	0	place	['this', 'a', 'make', 'fun']	positive
+11351451#805713#2	588	0	duck confitte	['solid', 'gf']	positive
+35695422#1464305#2	589	0	wine list	['perfect', 'The', 'superb']	positive
+35695422#1464305#2	589	1	tapas	['our', 'delightful']	positive
+35695422#1464305#2	589	2	atmosphere	['perfect', 'the', 'quiet']	positive
+11313316#1234433#3	590	0	price	['a', 'food', 'at', 'fast', 'eat']	positive
+11313316#1234433#3	590	1	food	['gourmet', 'price', 'eat']	positive
+11417054#1062693#1	591	0	food	['the', 'love']	positive
+11417054#1062693#1	591	1	service	['the', 'wonderful']	positive
+11417054#1062693#1	591	2	prices	['the', 'reasonable']	positive
+35693083#822138#0	592	0	food	['the', 'delicious']	positive
+11351625#909535#0	593	0	meal	['a', 'great', 'Had', 'heading']	positive
+15094232#1295193#0	594	0	food	['and', 'the', 'amazing', 'service']	positive
+15094232#1295193#0	594	1	service	['food', 'amazing']	positive
+35171678#484493#1	595	0	dinner menu	['the', 'offers']	positive
+35171678#484493#1	595	1	entrees	['of', 'great', 'variety']	positive
+35171678#484493#1	595	2	seafood	['and', 'fresh', 'variety', 'including', 'steaks']	positive
+35171678#484493#1	595	3	steaks	['huge', 'seafood', 'variety']	positive
+35171678#484493#1	595	4	non-meat alternatives	['of', 'non', 'couple']	neutral
+11482070#503858#0	596	0	menu	['strangest', 'the', 'has']	negative
+11482070#503858#0	596	1	food	['make', 'fancy']	negative
+32443281#959917#3	597	0	appetizers	['The', 'ok']	neutral
+32443281#959917#3	597	1	service	['the', 'slow']	negative
+11359717#1138929#5	598	0	food	['the', 'ROOT', 'price']	negative
+11359717#1138929#5	598	1	price	['food', 'the', 'worth']	negative
+11302357#835238#0	599	0	waitress	['brings', 'the', 'assaults', 'gives']	negative
+11302357#835238#0	599	1	entree	['brings', 'the', 'wrong']	neutral
+11351762#644011#2	600	0	prices	['The', 'terrible']	positive
+33071731#1007204#6	601	0	bill	['to', 'the', 'added']	negative
+33071731#1007204#6	601	1	gratuity	['added', '%']	negative
+35177381#521555#3	602	0	halibut cheek appetizer	['The', 'came']	neutral
+35177381#521555#3	602	1	portion of foie gras	['a', 'generous', 'with', 'came']	positive
+35177381#521555#3	602	2	meal	['about', 'the', 'say']	conflict
+33061445#591371#3	603	0	Food	['excellent']	positive
+33061445#591371#3	603	1	empenadas	['and', 'plaintains', 'good', 'have', 'which']	positive
+33061445#591371#3	603	2	plaintains	['good', 'empenadas', 'have']	positive
+33061445#591371#3	603	3	afternoon snack	['good', 'for', 'an']	positive
+13383936#420974#3	604	0	pasta specials	['of', 'the', 'number', 'appetizer']	positive
+13383936#420974#3	604	1	appetizer	['specials', 'and', 'pasta']	positive
+35743460#0#2	605	0	Big Mac	['and', 'sandwich', 'fries', 'the', 'include', 'McNuggets']	positive
+35743460#0#2	605	1	Chicken McNuggets	['Mac', 'include']	positive
+35743460#0#2	605	2	Filet-O-Fish sandwich	['Mac', 'include', 'Filet']	positive
+35743460#0#2	605	3	McDonald's famous french fries	['McDonald', 'Mac', 'include']	positive
+35743460#0#2	605	4	entree-sized salads	['entree', 'like', 'options']	neutral
+11351451#805713#4	606	0	noise	['the', 'intrusive']	conflict
+11350539#680470#2	607	0	pizza	['joint', 'the', 'is']	positive
+35393632#1591698#3	608	0	Tables	['close']	negative
+32894522#1633452#0	609	0	lunch	['for', 'her']	neutral
+11359767#969393#1	610	0	scene	['a', 'great', "'s", 'there', 'too', 'ROOT']	positive
+35668126#536759#4	615	0	blue bar area	['the', 'Dug']	positive
+35390148#588852#0	617	0	upstrairs dining area	['I', 'was', 'in', 'got', 'ROOT', 'your']	neutral
+35509422#0#4	618	0	veggie burger	['extraordinary', 'the', 'made', 'with', 'luck']	positive
+35509422#0#4	618	1	chickpeas	['and', 'of', 'vegetables', 'carrots', 'spices', 'blend']	positive
+35509422#0#4	618	2	carrots	['blend', 'chickpeas']	positive
+35509422#0#4	618	3	vegetables	['and', 'blend', 'other', 'chickpeas', 'spices']	positive
+35509422#0#4	618	4	spices	['vegetables', 'chickpeas']	positive
+11351521#768768#1	619	0	tables	['close']	negative
+35158410#1207085#3	620	0	service	['The', 'point']	positive
+11351399#0#7	621	0	Menus	['feature']	neutral
+11351399#0#7	621	1	sweet corn-foie gras brulee	['corn', 'like', 'feature']	neutral
+11351399#0#6	622	0	Carinthia cheese ravioli with wild mushrooms	['from', 'assured', 'simple', 'sturgeon', 'the', 'sauce']	positive
+11351399#0#6	622	1	caviar-topped sturgeon	['mushrooms', 'to', 'the', 'caviar', 'matched']	positive
+11351399#0#6	622	2	green spinach-vodka sauce	['a', 'bright', 'matched', 'with', 'spinach']	positive
+32894522#1633452#3	623	0	burgers	['And', 'patties', 'these', 'type', 'fast', 'food', 'are', 'not', 'small', 'ROOT']	positive
+32894522#1633452#3	623	1	patties	['real', 'full', 'these', 'sized', 'burgers', 'are']	positive
+32896492#738746#1	624	0	lunch	['perfect', 'for']	neutral
+32896492#738746#1	624	1	delivery service	['their', 'fast']	positive
+12036269#580745#4	625	0	quality	['better', 'has']	positive
+12036269#580745#4	625	1	prices	['has', 'with', 'cheaper']	positive
+11351328#1638529#4	626	0	staff person	['a', 'fork', 'flag', 'third']	neutral
+11351328#1638529#4	626	1	fork	['a', 'person', 'for']	neutral
+33068734#650934#1	628	0	specials	['Go', 'the', 'with']	positive
+33068734#650934#1	628	1	salmon	['the', 'from', 'stay']	negative
+33068734#650934#2	629	0	pastas	['The', 'good']	positive
+33068734#650934#3	630	0	Atmosphere	['bore']	negative
+33070532#604874#0	631	0	decor	['The', 'is']	positive
+11351745#499992#0	632	0	wait staff	['The', 'attentive', 'polite']	positive
+35717889#579150#0	633	0	food	['greater', 'restaurant']	positive
+35717889#579150#1	634	0	dishes	['The', 'tasty']	positive
+35717889#579150#1	634	1	place	['a', 'such', '!', 'cozy', 'intimate']	positive
+35717889#579150#2	635	0	desserts	['the', 'Save', 'for']	positive
+11351682#1496136#0	636	0	food	['to', 'the', 'given']	positive
+11351682#1496136#0	636	1	staff	['simplicity', 'the', 'freindly', 'given', 'knowledgable']	positive
+11504679#821993#0	637	0	Service	['good']	positive
+11504679#821993#0	637	1	atmosphere	['the', 'good', 'was']	positive
+11504679#821993#1	638	0	Branzini	['and', 'both', 'the', 'felt']	neutral
+11504679#821993#1	638	1	fish	['the', 'average']	negative
+11349760#848056#1	640	0	food	['The', 'good', 'reasonable']	positive
+11349760#848056#1	640	1	service	['the', 'prompt']	positive
+11349760#848056#1	640	2	price	['the', 'reasonable']	positive
+35704115#614067#0	641	0	menu	['Wonderful', 'keeps']	positive
+35704115#614067#0	641	1	ambiance	['inviting']	positive
+35704115#614067#0	641	2	service	['great', 'keeps']	positive
+35704115#614067#0	641	3	FOOD	['the', 'keeps']	positive
+33061498#586991#0	642	0	food	['Great', 'ROOT', 'host', 'wine']	positive
+33061498#586991#0	642	1	wine	['food', 'and', 'host', 'good']	positive
+33061498#586991#0	642	2	host	['food', 'wine', 'an', 'excellent']	positive
+11313392#560011#1	644	0	Pizzas	['excellent']	positive
+11313392#560011#1	644	1	appetizers	['and', 'to', 'excellent', 'courses']	positive
+11313392#560011#1	644	2	main courses	['appetizers', 'excellent']	positive
+11313392#560011#2	645	0	calamari	['try', 'pasta', 'the', 'steak', 'or']	positive
+11313392#560011#2	645	1	pasta	['try', 'calamari', 'any']	positive
+11313392#560011#2	645	2	Sliced steak entree	['even', 'try', 'the', 'calamari']	positive
+11513049#499488#4	646	0	caeser salad	['The', 'great']	positive
+11513049#499488#5	647	0	fried calamari	['better', 'The']	positive
+11513049#499488#8	648	0	atmosphere	['The', 'nice']	conflict
+11513049#499488#0	649	0	food	['The', 'good']	positive
+11660480#640405#1	650	0	food	['The', 'outstanding']	positive
+11660480#640405#1	650	1	service	['the', 'tops']	positive
+35682567#1590699#1	651	0	portions	['large', 'The']	positive
+35682567#1590699#1	651	1	service	['the', 'fantastic']	positive
+35682567#1590699#2	652	0	chicken milanese	['the', 'recomend']	positive
+35698333#556353#0	653	0	tapas	['ROOT', 'romantic', 'excellent']	positive
+35698333#556353#0	653	1	prices	['great', 'at', 'romantic']	positive
+33072753#1351349#2	654	0	service	['The', 'slow', 'friendly']	conflict
+33072753#1351349#0	655	0	chocolate raspberry cake	['heavenly', 'sweet', 'The', 'full']	positive
+33072753#1351349#0	655	1	flavor	['of', 'full']	positive
+11651310#581605#1	656	0	waiter	['Our', 'helpful', 'charming']	positive
+11651310#581605#1	656	1	food	['perfect', 'the']	positive
+11651310#581605#1	656	2	wine	['the', 'good']	positive
+11610050#517598#0	658	0	MEAL	['A', 'SERVICE', 'NEVER', 'HAD', 'BAD', 'HAVE']	positive
+11610050#517598#0	658	1	SERVICE	['BAD', 'OR', 'MEAL']	positive
+35739302#844266#0	659	0	hot dogs	['ROOT', 'Best', 'area']	positive
+11563005#745685#2	664	0	service	['The', 'attentive', 'generous']	positive
+11563005#745685#3	665	0	food	['of', 'great', 'tons', 'wine']	positive
+11563005#745685#3	665	1	wine	['food']	positive
+11563005#745685#3	665	2	desserts	['We', 'had']	positive
+11563005#745685#4	666	0	dining experience	['midst', 'Lovely', 'ROOT', 'Really']	positive
+11570675#1355721#1	668	0	food	['The', 'good']	negative
+11570675#1355721#1	668	1	service	['the', 'terrible']	negative
+11463275#424927#1	670	0	escargot	['town', 'the', 'best', 'have']	positive
+11408946#789662#1	672	0	menu	['of', 'the', '%']	positive
+11408946#789662#3	673	0	Deco	['and', 'The', 'ambiance', 'romantic']	positive
+11408946#789662#3	673	1	ambiance	['Deco', 'romantic']	positive
+32444534#501179#2	675	0	french food	['west']	positive
+33068425#562449#1	676	0	Indian food	['hate']	positive
+33068425#562449#3	677	0	curry	['a', 'enjoy', 'Finally', 'suffer', 'eat']	positive
+33068425#562449#5	678	0	poori	['FRESH', 'naan', 'paratha']	positive
+33068425#562449#5	678	1	naan	['poori']	positive
+33068425#562449#5	678	2	paratha	['poori', 'all']	positive
+33068425#562449#4 	679	0	homemade breads	['Try', 'the']	positive
+35703223#626682#0	680	0	sushi	['beautiful', 'has']	positive
+35703223#626682#1	681	0	Korean dishes	['lots', 'of', 'other']	positive
+11351741#1733901#0	682	0	prix fixe menu	['the', 'ordered']	neutral
+32857960#1320058#5	683	0	waiter	['helpful', 'efficient', 'was', 'only', 'ROOT', 'the', 'courteous']	positive
+35701421#583735#2	685	0	place	['This', 'classy']	positive
+35701421#583735#2	685	1	service	['the', 'warm', 'hospitable']	positive
+35701421#583735#2	685	2	food	['the', 'outstanding']	positive
+32864873#582572#0	688	0	burgers	['cheeses', 'Great', 'ROOT', 'fries']	positive
+32864873#582572#0	688	1	grilled cheeses	['and', 'burgers', 'fries']	positive
+32864873#582572#0	688	2	french fries	['burgers', 'cheeses']	positive
+11351354#812637#0	689	0	Yellowfin Tuna	['and', 'The', 'liver', 'Calf']	positive
+11351354#812637#0	689	1	Calf's liver	['Tuna', 'Calf', 'favorites']	positive
+11538980#1053497#1	690	0	Sushi	['fresh', 'ROOT']	positive
+11538980#1053497#4	691	0	bill	['leave', 'the']	negative
+35158410#1207085#2	693	0	steak	['offer', 'tried', 'for', 'your']	neutral
+35158410#1207085#2	693	1	choices of sauces	['to', '8', '7', 'offer']	positive
+35158410#1207085#2	693	2	sauce cart	['a', 'and', 'offer', 'up', 'bring', 'table']	neutral
+35158410#1207085#2	693	3	table	['to', 'your', 'cart']	neutral
+15094232#1295193#2	694	0	sushi	['fresh', 'the']	positive
+15094232#1295193#2	694	1	duck	['the', 'from', 'choose', 'happy']	positive
+15094232#1295193#2	694	2	entrees	['other', 'allowed']	neutral
+32894267#698671#5	695	0	variety	['nothing', 'good', 'ROOT', 'surprising']	positive
+11351328#1638529#2	696	0	utensils	['me', 'given', 'eat']	neutral
+11351328#1638529#2	696	1	pie	['my', 'eat']	neutral
+11350539#680470#6	697	0	thin crust	['or', 'really', 'like', 'slices']	negative
+11350539#680470#6	697	1	slices	['big', 'crust', 'like']	negative
+33071731#1007204#2	699	0	green beans	['olives', 'onion', 'No', 'egg', 'dressing', 'ROOT']	neutral
+33071731#1007204#2	699	1	egg	['beans', 'no']	neutral
+33071731#1007204#2	699	2	anchovy dressing	['beans', 'no']	neutral
+33071731#1007204#2	699	3	nicoise olives	['beans', 'no']	neutral
+33071731#1007204#2	699	4	red onion	['beans', 'no']	neutral
+32938896#0#2	700	0	meal	['a', 'Build']	neutral
+32938896#0#2	700	1	Amazin' Greens salads	['Amazin', 'Build', 'Kickers', 'Stix', 'like']	neutral
+32938896#0#2	700	2	Buffalo Chicken Kickers	['and', 'salads', 'Stix']	neutral
+32938896#0#2	700	3	Cinna Stix	['salads', 'Kickers']	neutral
+32938896#0#2	700	4	side orders	['with', 'Build']	neutral
+33070588#0#2	701	0	fries	['and', 'potatoes', 'Thick', 'chili', 'round']	neutral
+33070588#0#2	701	1	meaty chili	['fries', 'round']	neutral
+33070588#0#2	701	2	stuffed baked potatoes	['fries', 'round']	neutral
+33070588#0#2	701	3	menu	['a', 'includes', 'round', 'that']	neutral
+33070588#0#2	701	4	chocolate Frosty	['a', 'cool', 'ultra', 'includes']	positive
+11482070#503858#2	702	0	waiter	['the', 'asking', 'make']	neutral
+11482070#503858#2	702	1	menu	['on', 'what', 'is', 'than', 'the', 'make']	neutral
+32936760#1397861#8	703	0	cake	['had', 'it', 'BUT', 'not', 'the', 'was', 'best']	negative
+32936760#1397861#8	703	1	employees	['overworked', 'indifferent', 'by', 'herded']	negative
+32936760#1397861#8	703	2	cake	['had', 'it', 'BUT', 'not', 'the', 'was', 'best']	conflict
+35720486#684689#1	704	0	Cherry Marscapone	['closest', 'was', 'but', 'the', 'ROOT', 'day']	neutral
+35719198#0#3	705	0	roti canai appetizer	['the', 'delectable', 'pancake', 'evident', 'in']	positive
+35719198#0#3	705	1	mango chicken	['the', 'offers']	positive
+35719198#0#3	705	2	fried pancake served with pungent curry dipping sauce	['a', 'offers', 'appetizer']	positive
+33507331#1177339#1	706	0	outside	['on', 'the', 'look']	negative
+33507331#1177339#1	706	1	atmosphere	['a', "'s", 'look', 'it', 'other', 'whole', 'minute']	positive
+32935729#785247#3	708	0	ground chickpea soup	['sampled', 'The', 'ROOT']	negative
+32935729#785247#3	708	1	starter	['tasted']	neutral
+35709141#1107179#3	709	0	sushi	['re', 'the']	negative
+11351354#412616#1	710	0	service	['The', 'peg']	negative
+11351354#412616#1	710	1	quality of food	['the', 'below', 'two', 'bartenders']	positive
+11351354#412616#1	710	2	bartenders	['food', 'horrible']	negative
+11351354#412616#1	710	3	clientele	['the', 'part', 'rowdy']	negative
+11351354#412616#1	710	4	staff	['the', 'from', 'explain']	negative
+11349840#433070#8	711	0	meal	['a', 'great', 'stop', 'by', 'for']	positive
+11349840#433070#7	712	0	desserts	['sample', 'any']	neutral
+35391416#500259#5	714	0	tables	['ROOT', 'Make', 'bar', 'more']	negative
+35391416#500259#5	714	1	rooftop bar	['perhaps', 'a', 'tables']	neutral
+32944704#492723#1	715	0	decoration	['The', 'feeling']	positive
+32950007#1320096#2	716	0	ambience	['beautiful', 'and', 'service', 'food', 'delicious', 'has']	positive
+32950007#1320096#2	716	1	food	['ambience', 'excellent']	positive
+32950007#1320096#2	716	2	catfish	['the', 'delicious']	positive
+32950007#1320096#2	716	3	service	['ambience', 'attentive', 'has']	positive
+11350033#1264371#3	717	0	food	['go', 'for']	neutral
+11660930#655010#4	719	0	brisket	['best']	positive
+11660930#655010#4	719	1	ribs	['best']	positive
+11660930#655010#4	719	2	wings	['best']	positive
+11660930#655010#4	719	3	cajun shrimp	['best']	neutral
+35509422#0#0	720	0	atmosphere	['to', 'add', 'artsy', 'takeout', 'joint', 'laid', 'the']	positive
+35509422#0#1	721	0	counter	['graze', 'the', 'day', 'at']	neutral
+35393632#1591698#0	722	0	bottle of wine	['and', 'a', '!', 'Bring']	neutral
+35196527#481646#0	725	0	menu	['creative', 'Chelsea', 'impressive', 'includes']	positive
+35196527#481646#0	725	1	Japanese dishes	['modern', 'includes', 'Napolean', 'cod', 'steak', 'spaghetti', 'rack', 'Westernized']	neutral
+35196527#481646#0	725	2	Foie Gras Unagi Napolean	['and', 'dishes', 'cod', 'such', 'steak', 'spaghetti', 'rack']	neutral
+35196527#481646#0	725	3	Jap style hamburger steak	['Napolean', 'dishes']	neutral
+35196527#481646#0	725	4	spicy cod roe spaghetti	['Napolean', 'base', 'black', 'dishes']	neutral
+35196527#481646#0	725	5	black cod with miso base	['Napolean', 'spaghetti', 'sauce', 'dishes']	neutral
+35196527#481646#0	725	6	rack of lamb in black truffle sauce	['Napolean', 'cod', 'dishes']	neutral
+35816071#637243#2	726	0	food	['His', 'excellent']	positive
+35816071#637243#2	726	1	appetizers	['most', 'entrees']	positive
+35816071#637243#2	726	2	entrees	['not', 'appetizers', '$', 'no', '30']	positive
+11359613#884374#0	727	0	food	['The', 'good', 'consistant']	positive
+11349840#433070#6	728	0	pasta primavera	['The', 'outstanding']	positive
+11349840#433070#6	728	1	fresh veggies	['lots', 'of']	positive
+32894267#698671#4	729	0	sushi	['good', 'get']	positive
+35693083#822138#1	730	0	flan	['about', 'two']	positive
+32927541#579582#0	731	0	pizza	['bridge', 'the', 'Hanx', 'for', 'best']	positive
+11349536#778388#0	732	0	dinner	['food', 'great', 'Friday', 'Had']	neutral
+11349536#778388#0	732	1	food	['the', 'Friday', 'dinner']	positive
+35700989#574718#3	733	0	wine	['the', 'from', 'experience']	positive
+35700989#574718#3	733	1	dessert menu	['to', 'the', 'had']	positive
+35709275#573688#2	734	0	place	['a', 'seems', 'relaxing']	positive
+35709275#573688#2	734	1	bar	['the', 'looks']	positive
+35709275#573688#2	734	2	takeout	['pick']	neutral
+11351587#1488758#1	735	0	ambiance	['fine', 'The', 'loud', 'romantic']	positive
+33069925#747092#3	736	0	cocktail hour	['all', 'good', 'at']	positive
+33069925#747092#3	736	1	filet mignon	['the', 'good']	negative
+33069925#747092#3	736	2	non-sushi selection	['non', 'appetizers', 'nice']	positive
+33069925#747092#3	736	3	appetizers	['selection', 'free', 'includes']	positive
+11351725#582163#3	737	0	courses	['our', '2', 'served']	neutral
+11351725#582163#3	737	1	served	['courses', 'be', 'took', 'to']	negative
+11359764#1373169#1	738	0	place	['the', 'quiet']	neutral
+35698351#821341#1	739	0	size	['the', 'because', 'times']	negative
+11351360#1704700#0	740	0	chicken tacos	['and', 'awesome', 'lemonade', 'with', 'came']	positive
+11351360#1704700#0	740	1	Hibiscus lemonade	['came', 'tacos']	positive
+11351360#1704700#0	740	2	place	['this', 'great', 'little', 'came', 'across']	positive
+32894791#1611374#1	741	0	place	['ROOT', 'grab', 'good', 'hang']	positive
+32894791#1611374#1	741	1	soup	['a', 'simple', 'grab', 'or', 'dish']	neutral
+32894791#1611374#1	741	2	french dish	['soup', 'grab', 'classic']	neutral
+32894791#1611374#1	741	3	glass of wine	['a', 'over', 'grab']	neutral
+36072604#1106889#4	742	0	place	['fits', 'the']	positive
+11350033#1264371#2	743	0	casual drink	['a', 'enjoying', 'makes', 'that']	positive
+11350033#1264371#2	743	1	outdoors	['being', 'about', 'great']	positive
+11350033#1264371#2	743	2	place	['this', 'to', 'going']	positive
+11567247#1415594#1	744	0	dance floor	['to', 'the', 'seated']	neutral
+11351521#768768#2	745	0	pre-show meal	['a', 'pre', 'here', 'as', 'are', 'hop', 'you', 'If']	neutral
+11651065#413029#1	747	0	fried foods	['about', 'comments']	negative
+11651065#413029#1	747	1	dishes	['lamb', 'the', 'other', 'good']	positive
+11651065#413029#1	747	2	lamb entree	['and', 'dishes', 'many', 'including', 'the', 'salads']	positive
+11651065#413029#1	747	3	salads (avocado shrimp)	['lamb', 'of', 'the', 'shrimp']	positive
+11351816#1162694#2	749	0	service	['Slow', 'ROOT', 'but', 'hanging']	negative
+32897564#894393#1	750	0	dabs of real mozzarella	['with', 'excellent']	neutral
+32897564#894393#1	750	1	sauce	['The', 'excellent']	positive
+11349845#1188496#2	751	0	drinks	['awful', 'the']	negative
+11349845#1188496#2	751	1	people	['who', 'bother', 'work', 'it', 'awful', 'the', 'was']	negative
+11349845#1188496#2	751	2	dining	['made', 'at']	negative
+33070305#1312437#5	752	0	room	['plain', 'The']	negative
+33070305#1312437#5	752	1	place	['a', 'such', 'small', 'exciting']	negative
+11432842#416795#4	753	0	Prices	['week', 'great']	positive
+35509422#0#2	754	0	space	['a', 'for', 'study', 'private', 'comfortable', 'meet', 'makes']	positive
+35509422#0#2	754	1	outdoor eating area	['A', 'small', 'makes']	positive
+35670845#1650649#3	756	0	[female] servers	['', 'cute', 'all', 'the', 'female']	positive
+35170181#0#5	757	0	dessert	['The', 'best', 'Hawaiian', 'tart']	positive
+35170181#0#5	757	1	chocolate and peanut butter tart	['a', 'dessert']	positive
+35170181#0#5	757	2	sweets	['to', 'comes']	neutral
+11359619#487952#7	758	0	appetizer	['winner', 'for', 'an']	neutral
+11359619#487952#7	758	1	calamari	['their', 'winner']	positive
+32464595#574909#1	759	0	service	['and', 'money', 'the', 'food']	positive
+32464595#574909#1	759	1	food	['money', 'service']	positive
+11349536#778388#2	760	0	dinner	['heard', 'After']	neutral
+11349536#778388#2	760	1	music	['playing']	neutral
+11349536#778388#2	760	2	lounge	['downstairs']	neutral
+35816071#637243#3	762	0	room	['The', 'space']	positive
+35816071#637243#3	762	1	bi-level space	['a', 'and', 'bar', 'room', 'is', 'bi', 'gorgeous', 'ROOT']	positive
+35816071#637243#3	762	2	long bar	['perfect', 'the', 'space']	positive
+35816071#637243#3	762	3	drink	['a', 'perfect', 'for']	neutral
+11350142#1253117#2	764	0	appetizer selection	['stinks']	negative
+11350142#1253117#2	764	1	mozzarella sticks	['menu', 'some', 'get']	neutral
+11350142#1253117#2	764	2	menu	['on', 'the', 'sticks']	negative
+32950061#1264345#3	767	0	waitstaff	['the', 'went']	positive
+32950061#1264345#3	767	1	service	['prompt', 'friendly', 'offering']	positive
+32935729#785247#4	768	0	chicken and falafel platters	['combinations', 'The']	neutral
+32935729#785247#4	768	1	fresh leaf salad	['combinations', 'with']	neutral
+33085669#409731#2	771	0	atmosphere	['The', 'takes']	positive
+11351628#404492#8	772	0	waiters	['the', 'manners', "'"]	negative
+32896473#439063#0	773	0	service	['The', 'great']	conflict
+32896473#439063#0	773	1	desserts	['the', 'excellent']	positive
+32896473#439063#0	773	2	coffee	['the', 'good']	positive
+32899282#556036#1	775	0	served	['and', 'die', 'are', 'They', 'ROOT', 'bread']	neutral
+32899282#556036#1	775	1	Focacchia bread	['on', 'served']	neutral
+32894966#1727613#3	776	0	smoothies	['big', 'the']	negative
+32894966#1727613#3	776	1	fresh juices	['the', 'best']	positive
+32464601#418474#0	777	0	food	['The', 'OKAY']	conflict
+32464601#418474#0	777	1	pialla	['dish', 'the', 'which', 'getting']	positive
+32464601#418474#0	777	2	dish	['good', 'that', 'pialla', 'is', 'only', 'the']	positive
+11432442#650772#2	778	0	guac	['fresh', 'The']	conflict
+11432442#650772#2	778	1	fresh salsa	['guac', 'like', 'lacking', 'is', 'add', 'our']	neutral
+11432442#650772#2	778	2	flavor	['lacking']	negative
+11313290#1139539#1	779	0	prices	['the', 'raised']	negative
+11313290#1139539#1	779	1	staff	['the', 'friendly']	conflict
+11313290#1139539#1	779	2	new menu	['The', 'has']	positive
+33061445#591371#0	780	0	lunch	['open', 'for']	neutral
+33061445#591371#0	780	1	food	['the', 'good', 'open']	positive
+33070383#592089#1	781	0	seafood	['and/or', 'like']	positive
+33070383#592089#1	781	1	Greek food	['and/or']	positive
+35668286#0#2	782	0	menu	['The', 'includes']	neutral
+35668286#0#2	782	1	burgers	['fare', 'and', 'pie', 'steaks']	neutral
+35668286#0#2	782	2	steaks	['fare', 'burgers']	neutral
+35668286#0#2	782	3	shepherds pie	['fare', 'burgers']	neutral
+35668286#0#2	782	4	portabella lasagna	['even', 'a', 'fare', 'sheep', 'includes']	neutral
+35668286#0#2	782	5	pub fare	['and', 'pie', 'includes', 'burgers', 'lasagna', 'steaks']	neutral
+35714274#1076679#1	783	0	food	['mediocre', 'serving']	neutral
+35714274#1076679#1	783	1	prices	['exorbitant', 'serving', 'at']	negative
+11351725#582163#2	784	0	service	['the', 'slow']	negative
+11351725#582163#2	784	1	food	['The', 'mediocre']	neutral
+33060905#1138585#4	785	0	food	['the', 'mediocre']	neutral
+33060905#1138585#4	785	1	prices	['the', 'mediocre', 'for']	negative
+35695422#1464305#5	786	0	menu	['on', 'the', 'everything']	positive
+36220672#1714981#0	787	0	menu	['the', 'work', 'through']	neutral
+33068909#1189415#4	788	0	waiter	['rude', 'grunted', 'the', 'by', 'unbelievably', 'at']	negative
+33068909#1189415#4	788	1	meal	['status', 'of', 'the']	neutral
+33067279#1612676#0	789	0	brunch	['some', 'stopped', 'for']	neutral
+33067279#1612676#0	789	1	vegan cranberry pancakes	['and', 'the', 'had', 'milk']	neutral
+33067279#1612676#0	789	2	rice milk	['pancakes', 'some', 'had']	neutral
+35709451#1061726#3	792	0	bartender	['Sweet', 'Irish', 'happy', 'able', 'bring']	positive
+32443281#959917#4	794	0	service	['the', 'get']	negative
+32443281#959917#4	794	1	drink	['one', 'hour', 'get']	neutral
+32443281#959917#4	794	2	drinks	['go', 'for']	neutral
+11661949#1709112#8	795	0	owner	['the', 'fake']	negative
+35698240#574381#2	796	0	Owner	['pleasant', 'entertaining']	positive
+11350390#802808#3	797	0	food	['sent']	negative
+11350390#802808#3	797	1	waiter	['argued', 'the']	negative
+11482070#503858#3	798	0	food	['go', 'the', 'for']	negative
+11351628#404492#3	799	0	Creamy appetizers	['taramasalata', 'yogurt', 'ROOT', 'salad']	positive
+11351628#404492#3	799	1	warm pitas	['taste', 'on', 'when']	neutral
+11351628#404492#3	799	2	taramasalata	['and', 'yogurt', 'appetizers', 'salad']	positive
+11351628#404492#3	799	3	eggplant salad	['taramasalata', 'appetizers']	positive
+11351628#404492#3	799	4	Greek yogurt (with cuccumber, dill, and garlic)	['dill', 'taste', 'cuccumber', 'appetizers', 'taramasalata', 'garlic']	positive

@@ -1,0 +1,15 @@
+Baseline results/Task 2  :-
+
+>>> cat_mat_gold = np.loadtxt("tfidf_category_test_gold.npy",delimiter=',')
+>>> cat_mat_pred = np.loadtxt("cat_mat_predicted.npy",delimiter=',')
+
+>>> np.mean(cat_mat_gold[:,0]==cat_mat_pred[:,0])   # food
+0.64749999999999996
+>>> np.mean(cat_mat_gold[:,1]==cat_mat_pred[:,1])   # service
+0.70125000000000004
+>>> np.mean(cat_mat_gold[:,2]==cat_mat_pred[:,2])   # ambaince
+0.76749999999999996
+>>> np.mean(cat_mat_gold[:,3]==cat_mat_pred[:,3])   # price
+0.86624999999999996 
+>>> np.mean(cat_mat_gold[:,4]==cat_mat_pred[:,4])   # anectodes/misc
+0.72624999999999995

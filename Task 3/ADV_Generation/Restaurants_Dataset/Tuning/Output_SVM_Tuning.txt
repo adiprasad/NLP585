@@ -1,0 +1,45 @@
+GridSearchCV(cv=5, error_score='raise',
+       estimator=Pipeline(steps=[('prediction', SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False))]),
+       fit_params={}, iid=True, n_jobs=1,
+       param_grid={'prediction__gamma': [0.01, 0.001, 0.0001], 'prediction__kernel': ['rbf', 'linear'], 'prediction__C': [1, 10, 100, 1000], 'prediction__decision_function_shape': ['ovr']},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score=True,
+       scoring='accuracy', verbose=0)
+>>> clf.score(X_test,y_test)
+0.73192239858906527
+
+———————————
+Best params :-
+
+{'prediction__gamma': 0.01, 'prediction__kernel': 'linear', 'prediction__C': 1, 'prediction__decision_function_shape': 'ovr'}
+
+———————————
+Best estimator :-
+
+Pipeline(steps=[('prediction', SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma=0.01, kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False))])
+
+
+———————————
+Best index :-
+
+>>> clf.best_index_
+
+1
+
+———————————
+Best score :-
+
+>>> clf.best_score_
+0.64828331981616649
+
+———————————
+Scorer :-
+
+>>> clf.scorer_
+
+make_scorer(accuracy_score)

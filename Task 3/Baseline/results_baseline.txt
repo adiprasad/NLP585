@@ -1,0 +1,13 @@
+>>> y_pred = np.loadtxt('Baseline/y_pred_baseline.npy',delimiter=',')
+>>> y_pred
+array([ 0.,  0.,  0., ...,  0.,  0.,  0.])
+>>> y_pred.shape
+(1134,)
+>>> import os 
+>>> os.getcwd()
+'/Volumes/Data/School/Study/585/Final_Project/Task_3'
+>>> y_gold = np.loadtxt('ADV_Generation/Restaurants_Dataset/Test/y_test.csv',delimiter=',')
+>>> y_gold.shape
+(1134,)
+>>> np.mean(y_pred==y_gold)
+0.51587301587301593
